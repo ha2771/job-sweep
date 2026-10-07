@@ -111,7 +111,11 @@ TRACKS: list[tuple[str, re.Pattern[str]]] = [
         r"machine learning|\bml\b|\bai\b|artificial intelligence|deep learning|applied scien|mlops", re.I)),
 ]
 EARLY_TRACK = "Early-career (general)"
-_TRACK_RANK = {name: i for i, (name, _) in enumerate(TRACKS)} | {EARLY_TRACK: len(TRACKS)}
+# Ranking follows the candidate profile's track order; it is separate from which label wins above.
+_TRACK_RANK = {
+    "GenAI/LLM": 0, "ML/AI general": 1, "Computer vision": 2, "Edge/inference": 3,
+    "Signal/wireless/audio": 4, "Research": 5, "RL/robotics": 6, "Data science": 7, EARLY_TRACK: 8,
+}
 
 
 def track_for(title: str) -> str:
@@ -131,10 +135,11 @@ class TitleRules:
     include: re.Pattern[str]
     early: re.Pattern[str]
     role_noun: re.Pattern[str]
+    include_noun: re.Pattern[str]
 
     @classmethod
-    def from_strings(cls, exclude: str, include: str, early: str, role_noun: str) -> "TitleRules":
-        return cls(*(re.compile(p, re.I) for p in (exclude, include, early, role_noun)))
+    def from_strings(cls, exclude: str, include: str, early: str, role_noun: str, include_noun: str | None = None) -> "TitleRules":
+        return cls(*(re.compile(p, re.I) for p in (exclude, include, early, role_noun, include_noun or role_noun)))
 
     def screen(self, title: str) -> tuple[bool, str]:
         """(keep?, track or reason)."""
@@ -144,8 +149,8 @@ class TitleRules:
         hit = self.exclude.search(t)
         if hit:
             return False, f"excluded word: {hit.group(0)}"
-        if self.include.search(t):
-            return True, track_for(t)
+        if self.include.search(t) and self.include_noun.search(t):
+            return True, track_for(t)  # "Front Desk Agent" or "Speech Language Pathologist" fail the noun check
         if self.early.search(t) and self.role_noun.search(t):
             return True, EARLY_TRACK
         return False, "not an ML/AI or early-career title"

@@ -107,11 +107,25 @@ def test_non_json_and_non_https(monkeypatch):
         ("Senior Applied Scientist", False),
         ("Software Engineer, New Grad", True),
         ("Junior Accountant", False),
+        # Non-tech titles that matched an ML word in the first live run (2026-10-07)
+        ("Front Desk Agent", False),
+        ("Lottery Revenue Agent", False),
+        ("Speech Language Pathologist (SLP)- Peds Outpatient", False),
+        ("Ultrasonographer MultiModality", False),
+        ("Executive Assistant - AI Labs", False),
+        ("Improv & Voice Actors, Paid AI Research Study (Miami, FL)", False),
+        ("Security Risk & Compliance, Agent Security", False),
+        # ...while real roles still pass
+        ("Analyst, Applied AI", True),
+        ("Junior NLP Data Scientist", True),
+        ("Member of Technical Staff (Machine Learning Engineer, Search)", True),
+        ("Research Engineer - 6G AI-Enabled Systems and Testbeds", True),
+        ("Software Engineer, Inference", True),
     ],
 )
 def test_shipped_title_rules(title, keep):
     from jobsweep.filters import TitleRules
 
     cfg = load_config(ROOT / "config.toml")
-    rules = TitleRules.from_strings(cfg.title_exclude, cfg.title_include, cfg.early_career, cfg.role_noun)
+    rules = TitleRules.from_strings(cfg.title_exclude, cfg.title_include, cfg.early_career, cfg.role_noun, cfg.include_role_noun)
     assert rules.screen(title)[0] is keep

@@ -36,6 +36,7 @@ def job_row(job: Job, now: datetime, new_keys: set[str], state: dict[str, Any]) 
         "posted_at": job.posted_at.isoformat(timespec="seconds") if job.posted_at else None,
         "posted_date": job.posted_date.isoformat() if job.posted_date else None,
         "age_hours": round(age, 1) if age is not None else None,
+        "within_24h": bool(job.extra.get("within_24h")),
         "date_basis": job.date_basis,
         "first_seen": (state["jobs"].get(job.key) or {}).get("first_seen"),
         "new_this_run": job.key in new_keys,
@@ -86,18 +87,22 @@ def to_markdown(doc: dict[str, Any]) -> str:
     ]
     for name, s in doc["sources"].items():
         lines.append(f"| {name} | {s['boards_ok']}/{s['boards_checked']} | {s['postings_scanned']} | {s['fresh_in_window']} | {s['relevant']} |")
-    for verdict, heading in SECTIONS:
-        rows = [r for r in doc["jobs"] if r["verdict"] == verdict]
-        if not rows:
-            continue
-        lines += ["", f"## {heading} ({len(rows)})", "", "| Posted | Company | Role | Track | Why |", "|---|---|---|---|---|"]
-        for r in rows:
-            why = "; ".join(r["reasons"]) or ("sponsorship mentioned" if r["sponsorship_positive"] else "")
-            new = " **new**" if r["new_this_run"] else ""
-            lines.append(
-                f"| {_cell(r['posted'])}{new} | {_cell(r['company'])} | [{_cell(r['title'])}]({r['url']}) | "
-                f"{_cell(r['track'] or '')} | {_cell(why)} |"
-            )
+    groups = ((True, "Posted in the last 24 hours"), (False, "Posted 24-72 hours ago (for weekend digests)"))
+    for recent, group in groups:
+        group_rows = [r for r in doc["jobs"] if r["within_24h"] is recent]
+        lines += ["", f"## {group} ({len(group_rows)})"]
+        for verdict, heading in SECTIONS:
+            rows = [r for r in group_rows if r["verdict"] == verdict]
+            if not rows:
+                continue
+            lines += ["", f"### {heading} ({len(rows)})", "", "| Posted | Company | Role | Track | Why |", "|---|---|---|---|---|"]
+            for r in rows:
+                why = "; ".join(r["reasons"]) or ("sponsorship mentioned" if r["sponsorship_positive"] else "")
+                new = " **new**" if r["new_this_run"] else ""
+                lines.append(
+                    f"| {_cell(r['posted'])}{new} | {_cell(r['company'])} | [{_cell(r['title'])}]({r['url']}) | "
+                    f"{_cell(r['track'] or '')} | {_cell(why)} |"
+                )
     lines.append("")
     return "\n".join(lines)
 

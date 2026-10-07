@@ -33,6 +33,7 @@ class Config:
     title_include: str
     early_career: str
     role_noun: str
+    include_role_noun: str
     discovery_enabled: bool
     discovery_include: bool
     discovery_max_age_days: int
@@ -147,6 +148,7 @@ def load_config(path: Path) -> Config:
         title_include=_regex(flt, "title_include", "filters"),
         early_career=_regex(flt, "early_career", "filters"),
         role_noun=_regex(flt, "role_noun", "filters"),
+        include_role_noun=_regex(flt, "include_role_noun", "filters") if "include_role_noun" in flt else _regex(flt, "role_noun", "filters"),
         discovery_enabled=_get(disc, "enabled", bool, True, "discovery"),
         discovery_include=_get(disc, "include_in_sweep", bool, True, "discovery"),
         discovery_max_age_days=_get(disc, "max_age_days", int, 120, "discovery"),

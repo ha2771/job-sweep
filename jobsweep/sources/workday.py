@@ -56,9 +56,10 @@ def fetch_tenant(ctx: Context, t: Tenant) -> list[Job]:
             for p in posts:
                 ext = text(p.get("externalPath"))
                 days = posted_days(p.get("postedOn"))
-                if not ext.startswith("/") or days is None or days > ctx.window_days:
+                if not ext.startswith("/"):
                     continue
-                fresh_here += 1
+                if days is not None and days <= ctx.window_days:
+                    fresh_here += 1
                 bullets = p.get("bulletFields")
                 req_id = text(bullets[0]) if isinstance(bullets, list) and bullets else ""
                 jid = req_id or ext.rsplit("_", 1)[-1]
@@ -72,7 +73,7 @@ def fetch_tenant(ctx: Context, t: Tenant) -> list[Job]:
                     title=text(p.get("title")),
                     locations=split_locations(text(p.get("locationsText"))),
                     url=f"https://{t.host}/{t.site}{ext}",
-                    posted_date=ctx.today_et - timedelta(days=days),
+                    posted_date=ctx.today_et - timedelta(days=days) if days is not None else None,
                     date_basis=f"Workday '{text(p.get('postedOn'))}'",
                     extra={"detail_url": f"{t.api}{ext}"},
                 )

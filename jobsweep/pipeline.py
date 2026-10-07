@@ -43,6 +43,15 @@ def is_fresh(job: Job, ctx: Context) -> bool:
     return False
 
 
+def within_last_day(job: Job, ctx: Context) -> bool:
+    """The digest's main table: timestamped within 24h, or date-only posted today or yesterday (ET)."""
+    if job.posted_at is not None:
+        return (ctx.now - job.posted_at).total_seconds() <= 24 * 3600
+    if job.posted_date is not None:
+        return (ctx.today_et - job.posted_date).days <= 1
+    return False
+
+
 def _unique_ci(items: Iterable[str]) -> list[str]:
     seen, out = set(), []
     for item in items:
@@ -205,7 +214,7 @@ def run(cfg: Config, *, http: Any = None, now: datetime | None = None, only: set
     now = (now or datetime.now(timezone.utc)).astimezone(timezone.utc)
     http = http or Http(cfg.user_agent, timeout=cfg.timeout, per_host=cfg.per_host)
     ctx = Context(http=http, now=now, today_et=now.astimezone(ET).date(), window_hours=cfg.window_hours, max_workers=cfg.max_workers)
-    rules = TitleRules.from_strings(cfg.title_exclude, cfg.title_include, cfg.early_career, cfg.role_noun)
+    rules = TitleRules.from_strings(cfg.title_exclude, cfg.title_include, cfg.early_career, cfg.role_noun, cfg.include_role_noun)
     wanted = set(only or ALL_SOURCES)
     results: dict[str, SourceResult] = {}
 
@@ -256,6 +265,7 @@ def run(cfg: Config, *, http: Any = None, now: datetime | None = None, only: set
     kept = _merge_duplicates(_verify_simplify(ctx, still_us, results, index, fetched, stale))
     for job in kept:
         job.extra["triage"] = triage(job.description, _hints(job))
+        job.extra["within_24h"] = within_last_day(job, ctx)
 
     st = state_mod.load(cfg.state_path)
     bootstrap = not st["jobs"]
@@ -265,7 +275,12 @@ def run(cfg: Config, *, http: Any = None, now: datetime | None = None, only: set
 
     def sort_key(job: Job) -> tuple:
         age = age_hours(job.posted_at, job.posted_date, now)
-        return (VERDICT_ORDER.get(job.extra["triage"].verdict, 9), track_rank(job.extra.get("track", "")), age if age is not None else 1e9)
+        return (
+            0 if job.extra["within_24h"] else 1,
+            VERDICT_ORDER.get(job.extra["triage"].verdict, 9),
+            track_rank(job.extra.get("track", "")),
+            age if age is not None else 1e9,
+        )
 
     kept.sort(key=sort_key)
     doc = report.build(

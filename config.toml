@@ -19,6 +19,8 @@ title_include = 'machine learning|\bml\b|\bai\b|artificial intelligence|applied 
 # Generic early-career titles are kept too, but only if they also name an engineering/science role.
 early_career = 'new grad|new college|\bncg\b|university grad|college grad|recent grad|early[- ]career|entry[- ]level|\bjunior\b|\bjr\b|\bassociate\b|\bgraduate\b|\bgrad\b|202[67] start|class of 202[67]|\bresidency\b|rotational'
 role_noun = 'engineer|scientist|developer|researcher|\bswe\b|software|programmer|technical staff'
+# An ML/AI word in the title only counts if the title also names one of these roles.
+include_role_noun = 'engineer|scientist|developer|researcher|\bswe\b|software|programmer|technical staff|\bmts\b|analyst|residen|\bquant'
 
 [discovery]
 enabled = true            # read Greenhouse/Ashby/Lever/Workday boards out of Simplify's links

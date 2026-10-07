@@ -217,11 +217,31 @@ def test_workday_skips_old_and_paginates_sensibly(sweep):
     assert sum(1 for c in http.calls if c.startswith("POST")) == 1  # short page -> stop
 
 
-def test_sorted_best_first(sweep):
+def test_sorted_last_day_first_then_best(sweep):
     _, doc, _, _ = sweep
     order = {"looks_ok": 0, "stretch": 1, "check": 2, "no_text": 3, "likely_drop": 4}
-    ranks = [order[r["verdict"]] for r in doc["jobs"]]
+    ranks = [(0 if r["within_24h"] else 1, order[r["verdict"]]) for r in doc["jobs"]]
     assert ranks == sorted(ranks)
+    assert by_title(doc)[("Levco", "Signal Processing Engineer")]["within_24h"] is False  # 30h old
+    assert by_title(doc)[("Amazon", "Applied Scientist, AGI")]["within_24h"] is True  # date-only, today
+
+
+def test_track_ranking_follows_profile():
+    from jobsweep.filters import track_rank
+
+    assert track_rank("GenAI/LLM") < track_rank("ML/AI general") < track_rank("Computer vision") < track_rank("Data science")
+
+
+def test_markdown_groups_by_recency(sweep):
+    cfg, _, _, _ = sweep
+    md = (cfg.out_dir / "candidates.md").read_text()
+    assert md.index("Posted in the last 24 hours") < md.index("Posted 24-72 hours ago")
+
+
+def test_workday_counts_every_listed_posting(sweep):
+    _, doc, _, _ = sweep
+    wd = doc["sources"]["workday"]
+    assert (wd["postings_scanned"], wd["fresh_in_window"], wd["relevant"]) == (2, 1, 1)
 
 
 def test_second_run_marks_nothing_new(sweep):
