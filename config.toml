@@ -1,0 +1,107 @@
+# job-sweep configuration. Board names come from claude/job-search-criteria.md (2026-10-07).
+# Nothing personal belongs in this file: no profile, no applied-to list.
+
+[run]
+window_hours = 72            # keep 72 so weekend runs can still show Friday postings
+user_agent = "job-sweep/0.1 (personal new-grad job search)"
+max_workers = 16
+per_host_concurrency = 6
+timeout_seconds = 25
+state_path = "out/state.json"
+out_dir = "out"
+prune_days = 45
+
+[filters]
+# Case-insensitive regexes, matched against the job title.
+# 'staff' is excluded except in "Member of Technical Staff"; 'conversion' drops intern-conversion-only postings.
+title_exclude = '\b(senior|sr|(?<!technical )staff|principal|lead|leader|manager|mgr|director|head|vp|vice president|chief|president|iii|iv|v|vi|intern|internship|co-?op|apprentice|architect|postdoc|postdoctoral|post-doctoral|phd|clearance|ts/sci|secret|polygraph|distinguished|expert|professor|faculty|technician|recruiter|sales|account executive|counsel|attorney|paralegal|conversion)\b'
+title_include = 'machine learning|\bml\b|\bai\b|artificial intelligence|applied scien|research (engineer|scientist)|computer vision|\bcv\b|perception|deep learning|\bllms?\b|large language|generative|\bgen ?ai\b|\bnlp\b|natural language|speech|audio|signal processing|\bdsp\b|wireless|\b[56]g\b|radar|lidar|sensor fusion|inference|on-device|\bedge (ai|ml)\b|robot learning|reinforcement learning|\brobotics\b|data scien|\bvision\b|multimodal|foundation model|\bagents?\b|\bagentic\b|mlops|autonomy|embodied'
+# Generic early-career titles are kept too, but only if they also name an engineering/science role.
+early_career = 'new grad|new college|\bncg\b|university grad|college grad|recent grad|early[- ]career|entry[- ]level|\bjunior\b|\bjr\b|\bassociate\b|\bgraduate\b|\bgrad\b|202[67] start|class of 202[67]|\bresidency\b|rotational'
+role_noun = 'engineer|scientist|developer|researcher|\bswe\b|software|programmer|technical staff'
+
+[discovery]
+enabled = true            # read Greenhouse/Ashby/Lever/Workday boards out of Simplify's links
+include_in_sweep = true   # also sweep those boards, not just list them
+max_age_days = 120        # only boards with a Simplify listing updated this recently
+sweep_workday = true
+workday_pages = 2         # newest 40 postings per discovered Workday site
+
+[simplify]
+url = "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json"
+
+[greenhouse]
+tokens = [
+  "figureai", "nuro", "scaleai", "waymo", "dropbox", "airbnb", "instacart", "robinhood", "xai", "pinterest",
+  "samsara", "lyft", "kodiak", "reddit", "anthropic", "databricks", "lightmatter", "sambanovasystems", "pathai", "figma",
+  "coinbase", "discord", "agilityrobotics", "tenstorrent", "wehrtyou", "drweng", "imc", "cloudflare", "nextdoor", "motional",
+  "chime", "verkada", "brex", "apptronik", "duolingo", "airtable", "gongio", "neuralink", "affirm", "janestreet",
+  "gusto", "stripe", "faire", "zocdoc", "komodohealth", "peloton", "stabilityai", "asana", "sofi", "oscar",
+  "twilio", "roblox", "hive", "recursionpharmaceuticals", "togetherai", "generatebiomedicines", "relativity", "inflectionai", "doximity", "flatironhealth",
+  "toast", "isomorphiclabs", "lucidmotors", "datadog", "ionq", "psiquantum", "mongodb", "archer", "spacex", "icapitalnetwork",
+]
+
+[ashby]
+boards = [
+  "vercel", "runway", "pika", "poolside", "pinecone", "weaviate", "linear", "reka", "ideogram", "figure",
+  "hightouch", "neon", "bolt", "magicschool", "openai", "posthog", "lumaai", "anyscale", "character", "browserbase",
+  "e2b", "writer", "openevidence", "worldlabs", "tavus", "modal", "persona", "machina-labs", "nomic", "warp",
+  "ambiencehealthcare", "liquid-ai", "tennr", "cartesia", "physicalintelligence", "sesame", "periodic-labs", "speak", "abridge", "kalshi",
+  "reflectionai", "factory", "thinkingmachines", "supabase", "exa", "suno", "benchling", "synthesia", "rogo", "standardbots",
+  "langchain", "profound", "replit", "sierra", "lovable", "temporal", "decagon", "baseten", "ashby", "fireworks",
+  "plaid", "cognition", "cursor", "zip", "saronic", "skydio", "harvey", "ramp", "notion", "perplexity",
+  "cohere", "elevenlabs", "deepgram",
+]
+
+[lever]
+companies = [
+  "wealthfront", "spotify", "aeva", "anyscale", "zoox", "outreach", "palantir", "ro", "waabi", "shieldai",
+  "brightmachines", "pivotal", "levelai",
+]
+
+[[workday]]
+company = "NVIDIA"
+host = "nvidia.wd5.myworkdayjobs.com"
+tenant = "nvidia"
+site = "NVIDIAExternalCareerSite"
+queries = ["", "new college grad", "machine learning", "deep learning", "computer vision", "AI", "signal processing"]
+max_pages = 3
+
+[[workday]]
+company = "Intel"
+host = "intel.wd1.myworkdayjobs.com"
+tenant = "intel"
+site = "External"
+queries = ["", "machine learning", "AI", "graduate"]
+max_pages = 2
+
+[[workday]]
+company = "Samsung"
+host = "sec.wd3.myworkdayjobs.com"
+tenant = "sec"
+site = "Samsung_Careers"
+queries = ["", "machine learning", "AI", "signal processing"]
+max_pages = 2
+
+[[workday]]
+company = "Adobe"
+host = "adobe.wd5.myworkdayjobs.com"
+tenant = "adobe"
+site = "external_experienced"
+queries = ["", "machine learning", "AI", "computer vision"]
+max_pages = 2
+
+[[eightfold]]
+company = "Microsoft"
+host = "apply.careers.microsoft.com"
+domain = "microsoft.com"
+queries = ["machine learning", "artificial intelligence", "computer vision", "applied scientist", "research", "signal processing", "university graduate"]
+
+[[eightfold]]
+company = "Qualcomm"
+host = "careers.qualcomm.com"
+domain = "qualcomm.com"
+queries = ["machine learning", "AI", "computer vision", "signal processing", "wireless", "new college graduate"]
+
+[amazon]
+queries = ["machine learning", "computer vision", "applied scientist", "software development engineer AI", "signal processing", "university graduate", "data scientist"]

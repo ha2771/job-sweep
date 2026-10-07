@@ -1,0 +1,53 @@
+name: sweep
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"  # every 2 hours, UTC. GitHub can start scheduled runs a few minutes late.
+  workflow_dispatch:         # "Run workflow" button for an on-demand sweep
+
+permissions:
+  contents: write  # to push the sweep-output branch
+
+concurrency:
+  group: sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97  # v7.0.0
+        with:
+          python-version: "3.12"
+
+      - name: Restore last run's state
+        run: |
+          mkdir -p out
+          if git fetch --depth=1 origin sweep-output; then
+            git archive FETCH_HEAD state.json | tar -x -C out || echo "no state.json on sweep-output yet"
+          else
+            echo "first run: sweep-output branch does not exist yet"
+          fi
+
+      - name: Sweep
+        run: python -m jobsweep --config config.toml
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ -f out/candidates.md ]; then cat out/candidates.md >> "$GITHUB_STEP_SUMMARY"; fi
+
+      - name: Publish to the sweep-output branch (one commit, replaced every run)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd out
+          git init -q -b sweep-output
+          git add -A
+          git -c user.name="job-sweep" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              -c commit.gpgsign=false \
+              commit -qm "sweep $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:sweep-output
