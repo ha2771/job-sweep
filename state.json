@@ -1,0 +1,3323 @@
+{
+ "version": 1,
+ "jobs": {
+  "greenhouse:nuro:8248317": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Nuro",
+   "title": "New Grad Software Engineer, Product Engineering",
+   "url": "https://nuro.ai/careersitem?gh_jid=8248317"
+  },
+  "greenhouse:affirm:8008649003": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Affirm",
+   "title": "Software Engineer, Early Career (NYC)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003"
+  },
+  "greenhouse:affirm:8010617003": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Affirm",
+   "title": "Software Engineer, Early Career (SF)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003"
+  },
+  "greenhouse:icapitalnetwork:8802717002": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "iCapital",
+   "title": "Artificial Intelligence / Machine Learning Engineer - Associate",
+   "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8802717002"
+  },
+  "greenhouse:altentechnologyusa:5259669007": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "ALTEN Technology USA",
+   "title": "Junior Body Hardware Test Engineer",
+   "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5259669007"
+  },
+  "greenhouse:canonical:8249005": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Canonical",
+   "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/8249005"
+  },
+  "greenhouse:heartflowinc:6218985004": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Heartflow",
+   "title": "Junior Automation Engineer",
+   "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6218985004"
+  },
+  "greenhouse:humansignal:6218736004": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "HumanSignal",
+   "title": "Improv & Voice Actors, Paid AI Research Study (Las Vegas)",
+   "url": "https://job-boards.greenhouse.io/humansignal/jobs/6218736004"
+  },
+  "greenhouse:humansignal:6218745004": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "HumanSignal",
+   "title": "Improv & Voice Actors, Paid AI Research Study (Miami, FL)",
+   "url": "https://job-boards.greenhouse.io/humansignal/jobs/6218745004"
+  },
+  "greenhouse:humansignal:6218730004": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "HumanSignal",
+   "title": "Improv & Voice Actors, Paid AI Research Study (NJ)",
+   "url": "https://job-boards.greenhouse.io/humansignal/jobs/6218730004"
+  },
+  "greenhouse:humansignal:6218740004": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "HumanSignal",
+   "title": "Improv & Voice Actors, Paid AI Research Study (Orlando, FL)",
+   "url": "https://job-boards.greenhouse.io/humansignal/jobs/6218740004"
+  },
+  "greenhouse:idme:8011089003": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T02:05:51+00:00",
+   "company": "ID.me",
+   "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+   "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003"
+  },
+  "greenhouse:lgelectronics:5443633008": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "LG Electronics",
+   "title": "Call Center Agent",
+   "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5443633008"
+  },
+  "greenhouse:nimblerobotics:4434896009": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Nimble Robotics",
+   "title": "Maintenance Supervisor - Automation & Robotics Fulfillment (Cypress,TX)",
+   "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4434896009"
+  },
+  "greenhouse:pathrobotics:8868497002": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Path Robotics",
+   "title": "Data Engineer, ML Ops",
+   "url": "https://boards.greenhouse.io/pathrobotics/jobs/8868497002?gh_jid=8868497002"
+  },
+  "greenhouse:perpay:5252881007": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Perpay - Career's Page",
+   "title": "Super Day - Software Engineer, New Grad",
+   "url": "https://job-boards.greenhouse.io/perpay/jobs/5252881007"
+  },
+  "greenhouse:racapitalmanagementllc:5445201008": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "RA Capital Management, LLC",
+   "title": "Software Engineer, Data/AI",
+   "url": "https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/5445201008"
+  },
+  "greenhouse:purestorage:8249851": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Everpure",
+   "title": "Software Engineer Grad 2027",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851"
+  },
+  "greenhouse:anthropic:5445410008": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Anthropic",
+   "title": "Applied AI Engineer, Public Sector",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008"
+  },
+  "greenhouse:anthropic:5443871008": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Anthropic",
+   "title": "Security Risk & Compliance, Agent Security",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443871008"
+  },
+  "greenhouse:databricks:8859666002": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Databricks",
+   "title": "Data+AI Workforce Transformation Practitioner — Customer Delivery",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8859666002"
+  },
+  "ashby:modal:6195f552-ca6f-4540-b7f6-e7e6054e47ad": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Modal",
+   "title": "Member of Technical Staff - Inference Runtime",
+   "url": "https://jobs.ashbyhq.com/modal/6195f552-ca6f-4540-b7f6-e7e6054e47ad"
+  },
+  "ashby:physicalintelligence:6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Physicalintelligence",
+   "title": "ML Engineer - API Platform",
+   "url": "https://jobs.ashbyhq.com/physicalintelligence/6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe"
+  },
+  "ashby:sierra:ddae4a0c-2f6c-4cc3-80aa-da74a0dd667a": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Sierra",
+   "title": "Research Engineer, Applied Research",
+   "url": "https://jobs.ashbyhq.com/sierra/ddae4a0c-2f6c-4cc3-80aa-da74a0dd667a"
+  },
+  "ashby:sierra:b8666a78-fcb1-47bb-ad07-5edb6cd3ad71": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Sierra",
+   "title": "Software Engineer, Inference",
+   "url": "https://jobs.ashbyhq.com/sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71"
+  },
+  "ashby:baseten:7cb19a05-8e5b-44cf-b3e7-19949e2eff04": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Baseten",
+   "title": "Software Engineer- Inference Performance",
+   "url": "https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04"
+  },
+  "ashby:baseten:84c24e55-1db0-49b6-99d8-9bce9e16892f": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Baseten",
+   "title": "Product Data Scientist",
+   "url": "https://jobs.ashbyhq.com/baseten/84c24e55-1db0-49b6-99d8-9bce9e16892f"
+  },
+  "ashby:baseten:14c4a663-0b1f-4c11-93ff-1359741ee456": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Baseten",
+   "title": "Software Engineer- Inference Platform",
+   "url": "https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456"
+  },
+  "ashby:perplexity:9cec9b33-06f2-4ba1-8c9e-20a598361ca2": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Perplexity",
+   "title": "Member of Technical Staff (Machine Learning Engineer, Search & Agents)",
+   "url": "https://jobs.ashbyhq.com/perplexity/9cec9b33-06f2-4ba1-8c9e-20a598361ca2"
+  },
+  "ashby:elevenlabs:69694001-b760-4939-9a02-e75c046b89d3": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "ElevenLabs",
+   "title": "Marketing Data Scientist",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/69694001-b760-4939-9a02-e75c046b89d3"
+  },
+  "ashby:elevenlabs:41b892ba-b530-44cb-9ae1-178908fc324c": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "ElevenLabs",
+   "title": "Data Scientist - Product Analytics",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c"
+  },
+  "ashby:Commure:39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T20:13:01+00:00",
+   "company": "Commure",
+   "title": "Software Engineer, AI Integrations",
+   "url": "https://jobs.ashbyhq.com/Commure/39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5"
+  },
+  "ashby:Roadrunner:c82b1987-bb02-4420-8fa2-b79075b04480": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "RoadRunner",
+   "title": "Forward Deployed Engineer (New Grad)",
+   "url": "https://jobs.ashbyhq.com/Roadrunner/c82b1987-bb02-4420-8fa2-b79075b04480"
+  },
+  "ashby:blissway:3048f89c-56a2-44d0-960f-2e6553f51d30": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Blissway",
+   "title": "Software Engineer, Machine Learning Operations",
+   "url": "https://jobs.ashbyhq.com/blissway/3048f89c-56a2-44d0-960f-2e6553f51d30"
+  },
+  "ashby:applied:a2ddad24-2147-406f-81c9-a88f8acc77c2": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Applied Intuition",
+   "title": "Perception Engineer - Defense",
+   "url": "https://jobs.ashbyhq.com/applied/a2ddad24-2147-406f-81c9-a88f8acc77c2"
+  },
+  "ashby:handshake:7788a34b-f112-467a-ba9a-b8245f8fccfb": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Handshake",
+   "title": "AI Red Teamer (Remote)",
+   "url": "https://jobs.ashbyhq.com/handshake/7788a34b-f112-467a-ba9a-b8245f8fccfb"
+  },
+  "ashby:humanoid:42ece2fe-54fa-4786-8ecb-95e066be7c32": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Humanoid",
+   "title": "Autonomy Engineer - VLA Pre-training",
+   "url": "https://jobs.ashbyhq.com/humanoid/42ece2fe-54fa-4786-8ecb-95e066be7c32"
+  },
+  "ashby:solace:9dc2497a-d836-4331-9040-3d9108be8563": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Solace Health",
+   "title": "Data Scientist",
+   "url": "https://jobs.ashbyhq.com/solace/9dc2497a-d836-4331-9040-3d9108be8563"
+  },
+  "ashby:whoop:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Whoop",
+   "title": "Software Engineer I (Frontend, AI Platform)",
+   "url": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3"
+  },
+  "ashby:openai:7613aca3-9dd8-41cd-b114-06ef4de967a9": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "OpenAI",
+   "title": "Software Engineer, Cooperative AI",
+   "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9"
+  },
+  "lever:datalabusa:4bc04d86-bef3-40c8-a410-b0d0c41a683d": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Datalab USA",
+   "title": "Programmer Analyst - (entry-level data analyst/data scientist) Marketing Analytics",
+   "url": "https://jobs.lever.co/datalabusa/4bc04d86-bef3-40c8-a410-b0d0c41a683d"
+  },
+  "lever:shieldai:ec31b849-7235-4d07-b46e-6fd89c85073d": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Shield AI",
+   "title": "Associate Engineer, Manufacturing",
+   "url": "https://jobs.lever.co/shieldai/ec31b849-7235-4d07-b46e-6fd89c85073d"
+  },
+  "lever:shieldai:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Shield AI",
+   "title": "Software Development Engineer - New Graduate",
+   "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
+  },
+  "lever:rws:b0a3caed-5d90-4c66-9fe3-b9d5d386f96e": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "RWS",
+   "title": "AI Linguistic Evaluator - Bengali (India)",
+   "url": "https://jobs.lever.co/rws/b0a3caed-5d90-4c66-9fe3-b9d5d386f96e"
+  },
+  "lever:rws:5b16108c-b19c-4b3d-80d5-5bab8c8a980f": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "RWS",
+   "title": "AI Linguistic Evaluator - Gujarati",
+   "url": "https://jobs.lever.co/rws/5b16108c-b19c-4b3d-80d5-5bab8c8a980f"
+  },
+  "lever:rws:08eb2f35-4333-4e90-a3e9-1518517eed21": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "RWS",
+   "title": "AI Linguistic Evaluator - Malayalam",
+   "url": "https://jobs.lever.co/rws/08eb2f35-4333-4e90-a3e9-1518517eed21"
+  },
+  "lever:rws:758ec345-86a0-421e-ad04-91c09308ae47": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "RWS",
+   "title": "AI Linguistic Evaluator - Marathi",
+   "url": "https://jobs.lever.co/rws/758ec345-86a0-421e-ad04-91c09308ae47"
+  },
+  "lever:rws:1af08aa1-0ee0-4800-8cec-91b8b766c2d0": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "RWS",
+   "title": "AI Linguistic Evaluator - Tamil (India)",
+   "url": "https://jobs.lever.co/rws/1af08aa1-0ee0-4800-8cec-91b8b766c2d0"
+  },
+  "lever:rws:1e321ef1-f58c-47bc-827d-dd392cf2671b": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "RWS",
+   "title": "AI Linguistic Evaluator - Telugu",
+   "url": "https://jobs.lever.co/rws/1e321ef1-f58c-47bc-827d-dd392cf2671b"
+  },
+  "lever:steerbridge:16c834c5-5462-46dd-bd83-da94dc2f0101": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "SteerBridge",
+   "title": "Junior NLP Data Scientist",
+   "url": "https://jobs.lever.co/steerbridge/16c834c5-5462-46dd-bd83-da94dc2f0101"
+  },
+  "lever:provectus:8f3a9444-2977-4310-b2d5-12cc327a9916": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T21:24:11+00:00",
+   "company": "Provectus",
+   "title": "Associate Forward Deployed Engineer",
+   "url": "https://jobs.lever.co/provectus/8f3a9444-2977-4310-b2d5-12cc327a9916"
+  },
+  "lever:tsmg:ad0e4f1a-42a0-4e89-a727-f20268e03296": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "TSMG",
+   "title": "Robotics & Computer Vision Integration Engineer",
+   "url": "https://jobs.lever.co/tsmg/ad0e4f1a-42a0-4e89-a727-f20268e03296"
+  },
+  "workday:abglobal:R0020038": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "AllianceBernstein",
+   "title": "AI Research Scientist",
+   "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/AI-Research-Scientist_R0020038"
+  },
+  "workday:guidehouse:42467": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Guidehouse",
+   "title": "Data Scientist, Consultant (Utilities)",
+   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---CO-Boulder/Data-Scientist--Consultant--Utilities-_42467"
+  },
+  "workday:altera:R03263": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Altera Corporation",
+   "title": "DevSecOps and AI/Automation Engineer",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/DevSecOps-and-AI-Automation-Engineer_R03263"
+  },
+  "workday:homedepot:Req195136": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "The Home Depot",
+   "title": "Associate Data Scientist - Supply Chain",
+   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req195136"
+  },
+  "workday:capitalone:R1003193": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 4 (Gen AI Platform Services: Agentic AI, Agent Guardrails, Agent Evaluation, Agent Memory)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-AI--Agent-Guardrails--Agent-Evaluation--Agent-Memory-_R1003193-1"
+  },
+  "workday:capitalone:R1003152": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI--Guardrails--Evaluation-_R1003152-1"
+  },
+  "workday:capitalone:R1003149": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 4 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-AI--Guardrails--Evaluation-_R1003149-1"
+  },
+  "workday:capitalone:R1003178": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 5 (Gen AI Platform Services: Agentic Systems)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-Systems-_R1003178-1"
+  },
+  "workday:capitalone:R1003163": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluations)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI--Guardrails--Evaluations-_R1003163-1"
+  },
+  "workday:capitalone:R1003179": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 5 (Gen AI Platform Services: Agentic AI)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI-_R1003179-1"
+  },
+  "workday:globusmedical:JR107284": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Globus Medical",
+   "title": "Associate II, Field Service Engineering",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Pennsylvania/Associate-II--Field-Service-Engineering_JR107284-1"
+  },
+  "workday:globusmedical:JR107599": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Globus Medical",
+   "title": "ASSOCIATE RESEARCH ENGINEER",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/ASSOCIATE-RESEARCH-ENGINEER_JR107599"
+  },
+  "workday:caci:333066": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "CACI",
+   "title": "AI Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/AI-Engineer_333066"
+  },
+  "workday:caci:333190": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "CACI",
+   "title": "AI Prompt Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_333190-1"
+  },
+  "workday:adobe:R172095": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Adobe",
+   "title": "Forward Deployed AI Engineer, Marketing Intelligence & Consumer Insights",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Forward-Deployed-AI-Engineer--Marketing-Intelligence---Consumer-Insights_R172095"
+  },
+  "workday:globalhr:01875967": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "RTX",
+   "title": "Radar Systems Test Engineer I (Onsite)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Radar-Systems-Test-Engineer-I--Onsite-_01875967"
+  },
+  "workday:intel:JR0287625": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "Intel",
+   "title": "Finance Data Scientist",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625"
+  },
+  "workday:dealertire:R13774": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Dealer Tire",
+   "title": "Associate Data Scientist",
+   "url": "https://dealertire.wd5.myworkdayjobs.com/DealerTireLLC-Careers/job/Remote-California/Associate-Data-Scientist_R13774"
+  },
+  "workday:utaustin:R_00049234": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "University of Texas at Austin",
+   "title": "Graduate Assistant, McKetta Department of Chemical Engineering",
+   "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Assistant--McKetta-Department-of-Chemical-Engineering_R_00049234"
+  },
+  "workday:statestreet:R-796408": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "State Street",
+   "title": "Technology Financial Operations AI & Automation Engineer",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Technology-Financial-Operations-AI---Automation-Engineer_R-796408"
+  },
+  "workday:ngc:R10251243": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Northrop Grumman",
+   "title": "Associate / Electronics Engineer (Levels 1 & 2) El Segundo",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Associate---Electronics-Engineer--Levels-1---2--El-Segundo_R10251243"
+  },
+  "workday:ngc:R10254816": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Northrop Grumman",
+   "title": "2027 Associate Optical Engineer / Optical Engineer - Manhattan Beach CA",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Optical-Engineer---Optical-Engineer---Manhattan-Beach-CA_R10254816-1"
+  },
+  "workday:ngc:R10254813": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Northrop Grumman",
+   "title": "2027 Associate Engineer Material Process / Engineer Material Process - CA",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Associate-Engineer-Material-Process---Engineer-Material-Process---CA_R10254813"
+  },
+  "workday:salesforce:JR355250": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Salesforce",
+   "title": "Software Engineering AMTS (College Grad)",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250"
+  },
+  "workday:analogdevices:R266685": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Analog Devices",
+   "title": "Associate Field Applications Engineer - Auto Connectivity",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Field-Applications-Engineer---Auto-Connectivity_R266685"
+  },
+  "workday:analogdevices:R265415": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Analog Devices",
+   "title": "Associate Design Verification Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Associate-Design-Verification-Engineer_R265415"
+  },
+  "workday:analogdevices:R266686": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Analog Devices",
+   "title": "Associate Field Applications Engineer - Power Management",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MI-Livonia/Field-Applications-Engineer---Power-Management_R266686"
+  },
+  "workday:sralab:JR-1065593": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Shirley Ryan AbilityLab",
+   "title": "Speech Language Pathologist-24th Floor Brain Innovation Center",
+   "url": "https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Speech-Language-Pathologist-24th-Floor-Brain-Innovation-Center_JR-1065593-1"
+  },
+  "workday:salesforce:JR362426": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Salesforce",
+   "title": "Executive Assistant - AI Labs",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Executive-Assistant---AI-Labs_JR362426"
+  },
+  "workday:boeing:JR2026526261": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate Software Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Heath-OH/Associate-Software-Engineer_JR2026526261"
+  },
+  "workday:boeing:JR2026526210": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate or Mid-Level System Safety Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Ridley-Park-PA/Associate-or-Mid-Level-System-Safety-Engineer_JR2026526210"
+  },
+  "workday:invenergyllc:R11094": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Invenergy",
+   "title": "Analyst, Applied AI",
+   "url": "https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Analyst--Applied-AI_R11094-1"
+  },
+  "workday:capitalhealth:JR109063": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Capital Health",
+   "title": "Ultrasonographer MultiModality",
+   "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/CHPC-Hamilton/Ultrasonographer-MultiModality_JR109063"
+  },
+  "workday:avav:9016": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "AeroVironment",
+   "title": "Associate Software Engineer",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016"
+  },
+  "workday:avav:9060": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "AeroVironment",
+   "title": "Entry-Level Radar Exploitation Engineer",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060"
+  },
+  "workday:avav:8973": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "AeroVironment",
+   "title": "Mid-Level Radar Exploitation Engineer",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/4391-4401-4433-Dayton-Xenia-Rd-Dayton-OH/Mid-Level-Radar-Exploitation-Engineer_8973"
+  },
+  "workday:avav:7012": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "AeroVironment",
+   "title": "Data Scientist",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/308-Sentinel-Drive-Annapolis-Junction-MD/Data-Scientist_7012"
+  },
+  "workday:avav:8322": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "AeroVironment",
+   "title": "Junior Software Engineer",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322"
+  },
+  "workday:fanniemae:JR2895": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Fannie Mae",
+   "title": "Pricing - Financial Engineering - Associate",
+   "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Pricing---Financial-Engineering---Associate_JR2895-1"
+  },
+  "workday:boeing:JR2026522706": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "The Boeing Company",
+   "title": "ASIC / FPGA Digital Design Engineer – (Associate or Experienced)",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC---FPGA-Digital-Design-Engineer----Associate-or-Experienced-_JR2026522706-1"
+  },
+  "workday:proofpoint:R14847": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "Proofpoint",
+   "title": "AI Engineer II",
+   "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Texas/AI-Engineer-II_R14847"
+  },
+  "workday:bah:R0251344": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Booz Allen",
+   "title": "Artificial Intelligence Digital Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/Artificial-Intelligence-Digital-Engineer_R0251344"
+  },
+  "workday:nxp:R-10067073": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "NXP Semiconductors",
+   "title": "Junior Analog Design Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Catania/Junior-Analog-Design-Engineer_R-10067073-1"
+  },
+  "workday:mymvw:JR94816": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Hyatt Vacation Club",
+   "title": "Front Desk Agent",
+   "url": "https://mymvw.wd5.myworkdayjobs.com/hvocareers/job/Hyatt-Vacation-Club-at-Northstar-Lodge/Front-Desk-Agent_JR94816"
+  },
+  "workday:hp:3167677": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Hewlett Packard",
+   "title": "Machine Learning Engineer",
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Machine-Learning-Engineer_3167677"
+  },
+  "workday:btisolutions:JR102013": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "BTI Solutions",
+   "title": "Korean Bilingual Vision System Engineer",
+   "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Lansing-MI/Korean-Bilingual-Vision-System-Engineer_JR102013-1"
+  },
+  "workday:blackrock:R256785": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "BlackRock",
+   "title": "Full Stack Java Engineer - Aladdin Engineering, Alternatives, Associate",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Atlanta-GA/Full-Stack-Java-Engineer---Aladdin-Engineering--Alternatives--Associate_R256785"
+  },
+  "workday:blackrock:R265120": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "BlackRock",
+   "title": "BlackRock Investment Institute, AI Solutions, Research Associate",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/BlackRock-Investment-Institute--AI-Solutions--Research-Associate_R265120"
+  },
+  "workday:blackrock:R266105": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "BlackRock",
+   "title": "Associate Database Platform Developer",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Wilmington-DE/Associate-Database-Platform-Developer_R266105"
+  },
+  "workday:barclays:JR-0000104461": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Barclays",
+   "title": "AI Data Engineer",
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Entitlements-Engineer---Data-Platform_JR-0000104461-2"
+  },
+  "workday:cat:R0000398239": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Caterpillar",
+   "title": "Data Scientist",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Morton-Illinois/Data-Scientist_R0000398239"
+  },
+  "workday:disney:10148551": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "The Walt Disney Company",
+   "title": "Software Engineer II - ML and Observability",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Software-Engineer-II_10148551"
+  },
+  "workday:rollsroyce:JR6160583": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Rolls-Royce",
+   "title": "Engineering and Technology Graduate Programme - UK",
+   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Engineering-and-Technology-Graduate-Programme---UK_JR6160583"
+  },
+  "workday:amainc:R-100783": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "Analytical Mechanics Associates",
+   "title": "Associate Wind Tunnel Model Design Engineer",
+   "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Associate-Wind-Tunnel-Model-Design-Engineer_R-100783"
+  },
+  "workday:nvidia:JR2020837": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "NVIDIA",
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2020837"
+  },
+  "workday:nvidia:JR2026800": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "NVIDIA",
+   "title": "High Speed SerDes Validation Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Speed-SerDes-Validation-Engineer---New-College-Grad-2026_JR2026800"
+  },
+  "workday:nvidia:JR2025458": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "NVIDIA",
+   "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458"
+  },
+  "workday:nvidia:JR2021784": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "NVIDIA",
+   "title": "Machine Learning Engineer, AI Safety",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--AI-Safety_JR2021784-1"
+  },
+  "workday:nvidia:JR2027095": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "NVIDIA",
+   "title": "Performance Engineer, Deep Learning and HPC",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2027095"
+  },
+  "workday:nvidia:JR2026547": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "NVIDIA",
+   "title": "Performance Engineer - Deep Learning",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer---Deep-Learning_JR2026547"
+  },
+  "workday:sterlingmets:R1521": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Major League Baseball",
+   "title": "Data Scientist, Baseball Analytics",
+   "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Data-Scientist_R1521"
+  },
+  "workday:eversource:R-031791": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Eversource Energy",
+   "title": "Associate Engineer, Asset Management (hybrid schedule)",
+   "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Associate-Engineer--Asset-Management--hybrid-schedule-_R-031791-1"
+  },
+  "workday:expedia:R-109446": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Expedia Group",
+   "title": "Machine Learning Scientist II - Agentic Experiences",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Machine-Learning-Scientist-II---Agentic-Experiences_R-109446"
+  },
+  "workday:interdigital:REQ26-1144": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T02:05:51+00:00",
+   "company": "Interdigital",
+   "title": "Research Engineer - 6G AI-Enabled Systems and Testbeds",
+   "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144"
+  },
+  "workday:danaher:R1317279": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Danaher",
+   "title": "Associate Field Service Engineer - Chicago, IL",
+   "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Chicago-Illinois-United-States/Associate-Field-Service-Engineer---Chicago--IL_R1317279"
+  },
+  "workday:crowe:R-71012": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Crowe",
+   "title": "AI Technical Consultant",
+   "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Technical-Consultant_R-71012"
+  },
+  "workday:son:JR2026-00029707": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "State of Nebraska",
+   "title": "Lottery Revenue Agent",
+   "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Lottery-Revenue-Agent_JR2026-00029707-1"
+  },
+  "workday:son:JR2026-00029699": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "State of Nebraska",
+   "title": "Compliance Revenue Agent",
+   "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Omaha-NE/Compliance-Revenue-Agent_JR2026-00029699"
+  },
+  "workday:son:JR2026-00029646": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "State of Nebraska",
+   "title": "ETAC Revenue Agent",
+   "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/ETAC-Revenue-Agent_JR2026-00029646"
+  },
+  "workday:texascapitalbank:JR105779": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Texas Capital Bank",
+   "title": "Associate Engineer",
+   "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Associate-Engineer_JR105779"
+  },
+  "workday:rb:R-0000033675": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "The Federal Reserve System",
+   "title": "AI Solutions Engineer - Associate",
+   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/AI-Solutions-Engineer---Associate_R-0000033675-1"
+  },
+  "workday:hntb:R-31894": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "HNTB",
+   "title": "New Grad Engineer I",
+   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Lake-Mary-FL/New-Grad-Engineer-I_R-31894-1"
+  },
+  "workday:resmed:JR_053888": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Resmed",
+   "title": "Associate Android Developer",
+   "url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1"
+  },
+  "workday:aah:R276257": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Advocate Health Care",
+   "title": "Speech Language Pathologist (SLP)-  Peds Outpatient",
+   "url": "https://aah.wd5.myworkdayjobs.com/External/job/Palos-Heights-IL---12350-S-Harlem-Ave/Speech-Language-Pathologist--SLP----Peds-Outpatient_R276257"
+  },
+  "workday:hpe:1213648": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Systems/Software Engineer I - Graduate",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
+  },
+  "workday:accenture:R00326642": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Accenture",
+   "title": "AI Native Product Engineer & Orchestrator (all gender)",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Building-Beta/AI-Native-Product-Engineer---Orchestrator--all-gender-_R00326642"
+  },
+  "workday:accenture:R00346490": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:38:55+00:00",
+   "company": "Accenture",
+   "title": "Junior AI Native Engineer",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vilnius/Junior-AI-Native-Engineer_R00346490"
+  },
+  "eightfold:microsoft:1970393557001640": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Microsoft",
+   "title": "Senio Applied Scientist - Ads Monetization",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557001640"
+  },
+  "amazon:amazon:10571297": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Robotics/AI Motor Control Scientist, Fauna",
+   "url": "https://www.amazon.jobs/en/jobs/10571297/robotics-ai-motor-control-scientist-fauna"
+  },
+  "amazon:amazon:10569910": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Amazon Kuiper Manufacturing Enterprises LLC",
+   "title": "Data Scientist , Leo Customer Terminal",
+   "url": "https://www.amazon.jobs/en/jobs/10569910/data-scientist-leo-customer-terminal"
+  },
+  "amazon:amazon:10570705": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Applied Scientist, TSI Science",
+   "url": "https://www.amazon.jobs/en/jobs/10570705/applied-scientist-tsi-science"
+  },
+  "amazon:amazon:10569713": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Applied Scientist, Fauna",
+   "url": "https://www.amazon.jobs/en/jobs/10569713/applied-scientist-fauna"
+  },
+  "amazon:amazon:10569394": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Applied Scientist, Advertiser Growth Engine",
+   "url": "https://www.amazon.jobs/en/jobs/10569394/applied-scientist-advertiser-growth-engine"
+  },
+  "amazon:amazon:10569120": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Amazon Web Services, Inc.",
+   "title": "Consultant, Agentic Delivery Acceleration, Professional Services",
+   "url": "https://www.amazon.jobs/en/jobs/10569120/consultant-agentic-delivery-acceleration-professional-services"
+  },
+  "amazon:amazon:10570972": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Applied Scientist, BRP Payment Risk ML, BRP Payment Risk ML",
+   "url": "https://www.amazon.jobs/en/jobs/10570972/applied-scientist-brp-payment-risk-ml-brp-payment-risk-ml"
+  },
+  "amazon:amazon:10570566": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Annapurna Labs (U.S.) Inc.",
+   "title": "Applied Scientist, Neuron Automated Reasoning Group",
+   "url": "https://www.amazon.jobs/en/jobs/10570566/applied-scientist-neuron-automated-reasoning-group"
+  },
+  "amazon:amazon:10571011": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Applied Scientist II, Sponsored Products and Brands Off-Search",
+   "url": "https://www.amazon.jobs/en/jobs/10571011/applied-scientist-ii-sponsored-products-and-brands-off-search"
+  },
+  "amazon:amazon:10570354": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Applied Scientist, AGI/AI Security",
+   "url": "https://www.amazon.jobs/en/jobs/10570354/applied-scientist-agi-ai-security"
+  },
+  "amazon:amazon:10570548": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Annapurna Labs (U.S.) Inc.",
+   "title": "Applied Scientist II, AWS Neuron Science - Core Algorithm",
+   "url": "https://www.amazon.jobs/en/jobs/10570548/applied-scientist-ii-aws-neuron-science-core-algorithm"
+  },
+  "amazon:amazon:10571309": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Amazon Development Center U.S., Inc.",
+   "title": "Applied Scientist - Fault-Tolerant Quantum Computing, Amazon Braket",
+   "url": "https://www.amazon.jobs/en/jobs/10571309/applied-scientist-fault-tolerant-quantum-computing-amazon-braket"
+  },
+  "amazon:amazon:10570504": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure",
+   "url": "https://www.amazon.jobs/en/jobs/10570504/software-development-engineer-ads-ai-core-infrastructure-aci-ads-ai-core-infrastructure"
+  },
+  "amazon:amazon:10570092": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Annapurna Labs (U.S.) Inc.",
+   "title": "Software Development Engineer, ML Acceleration, Trainium AI Systems, Annapurna Labs",
+   "url": "https://www.amazon.jobs/en/jobs/10570092/software-development-engineer-ml-acceleration-trainium-ai-systems-annapurna-labs"
+  },
+  "amazon:amazon:10570863": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Data Scientist  , Reactive Transfers",
+   "url": "https://www.amazon.jobs/en/jobs/10570863/data-scientist-reactive-transfers"
+  },
+  "simplify:new-grad:122d4821-7d9d-4473-b0af-0ed5e7062161": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "General Dynamics Mission Systems",
+   "title": "Electrical Engineer – Entry Level",
+   "url": "https://careers-gdms.icims.com/jobs/75339/job?mobile=true&needsRedirect=false"
+  },
+  "simplify:new-grad:df162dd7-e1d9-4487-bdbb-f394807a974d": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T07:22:37+00:00",
+   "company": "Jobs for Humanity",
+   "title": "AI Safety & Policy Associate",
+   "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000153472079"
+  },
+  "simplify:new-grad:617f05a7-e40b-4c9a-b24b-a6096a0fde86": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "LSEG",
+   "title": "Real-Time Software Engineer – Early Career",
+   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"
+  },
+  "simplify:new-grad:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Atlassian",
+   "title": "Data Engineer New Grad",
+   "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job"
+  },
+  "simplify:new-grad:fbb35820-5f6d-46ad-b912-0db35c744da1": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Nuro",
+   "title": "Software Engineer New Grad - Routing",
+   "url": "https://nuro.ai/careersitem?gh_jid=8248317"
+  },
+  "simplify:new-grad:214e7a90-9cec-4928-a2ba-cbb8931aeb79": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Capgemini",
+   "title": "Associate Software Engineer",
+   "url": "https://careers.capgemini.com/job/Nashville,-TN-Associate-Software-Engineer-TN-37201/1444508633/?ats=successfactors"
+  },
+  "simplify:new-grad:54aec1a8-4f38-44e4-bd9f-1bdf812162b7": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "Boeing",
+   "title": "Entry Level Test & Evaluation Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099-1"
+  },
+  "simplify:new-grad:39526b50-e93e-41e9-af96-5521531b7d1e": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "Boeing",
+   "title": "Entry Level Equipment Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Equipment-Engineer_JR2026517696-1"
+  },
+  "simplify:new-grad:c697da4f-8723-4870-a672-483d6fa92afa": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "SAIC",
+   "title": "Junior Hardware Engineer",
+   "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2617221"
+  },
+  "simplify:new-grad:cdf47e28-03ea-4592-a36c-dd58f8f073c3": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "West Monroe",
+   "title": "Software Engineering Consultant - AI Concentration",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183016004"
+  },
+  "simplify:new-grad:67af29a3-58ac-47dc-9fc4-c94be1828e2f": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "West Monroe",
+   "title": "Software Engineering - AI Concentration - Consultant",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004"
+  },
+  "simplify:new-grad:099d2b2d-cbfc-40bd-957b-563be9992d9e": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Roku",
+   "title": "Software Engineer - AI/UI",
+   "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704"
+  },
+  "simplify:new-grad:5ca6ffaa-b127-49e1-b986-4aaa08139fb3": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Graduate Systems/Software Engineer 1",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439"
+  },
+  "simplify:new-grad:abf46b1e-8c1b-477b-ac8a-1cc5a9cfa456": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "Advocate Health Care",
+   "title": "Data Solutions Developer - Associate",
+   "url": "https://aah.wd5.myworkdayjobs.com/External/job/Milwaukee-WI---7800-N-113th-St/Data-Solutions-Developer---Associate_R249061"
+  },
+  "simplify:new-grad:5b1dcb48-f2c5-4a0e-b2cf-be4285c160f0": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Teserac",
+   "title": "AI Engineer",
+   "url": "https://apply.workable.com/teserac-inc/j/01F1C3E218/apply"
+  },
+  "simplify:new-grad:d5b7d966-e703-4f27-ac8a-2d39fe89c0ff": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Deloitte",
+   "title": "Data Scientist - AI and Data Science Engineer 1",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-AI-and-Data-Science-Engineer-I/369586"
+  },
+  "simplify:new-grad:3a93ce9b-b375-4f91-a7b3-4841cd8b84da": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "D'Addario",
+   "title": "Junior Full Stack Engineer",
+   "url": "https://careers-daddario.icims.com/jobs/2680/job?mobile=true&needsRedirect=false"
+  },
+  "simplify:new-grad:51ba20ce-fa42-44f4-8918-7f1f063dabb3": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "General Dynamics Mission Systems",
+   "title": "Embedded Software Engineer – Entry Level",
+   "url": "https://careers-gdms.icims.com/jobs/75056/job?mobile=true&needsRedirect=false"
+  },
+  "simplify:new-grad:99c86363-1d06-485c-83bf-028ccf3525ff": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Northrop Grumman",
+   "title": "Associate / Electronics Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Associate---Electronics-Engineer--Levels-1---2--El-Segundo_R10251243"
+  },
+  "simplify:new-grad:c977c519-0e77-41fa-bc32-6ae73ce0cf85": {
+   "first_seen": "2026-10-07T07:22:37+00:00",
+   "last_seen": "2026-10-10T01:49:34+00:00",
+   "company": "L3Harris Technologies",
+   "title": "Associate Integration & Test Engineer",
+   "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Integration-&-Test-Engineer-NJ-07014/1437605100/?ats=successfactors"
+  },
+  "workday:hpe:1215573": {
+   "first_seen": "2026-10-07T07:38:55+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Hewlett Packard Enterprise",
+   "title": "HPC & AI Performance Engineer",
+   "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Houston-Texas-United-States-of-America/HPC---AI-Performance-Engineer_1215573"
+  },
+  "workday:lseg:R0123960": {
+   "first_seen": "2026-10-07T07:38:55+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "LSEG",
+   "title": "Engineering/ Technology Graduate Associate",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/THA-Bangkok-One-Bangkok/Engineering--Technology-Graduate-Associate_R0123960"
+  },
+  "ashby:sierra:9d59c96e-e7f7-43cc-8069-bcdf3798fe2b": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-10T08:41:53+00:00",
+   "company": "Sierra",
+   "title": "Software Engineer, Agent (Spanish speaking)",
+   "url": "https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b"
+  },
+  "ashby:elevenlabs:35813150-a851-4821-b732-a037b4e6c4fe": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-10T08:41:53+00:00",
+   "company": "ElevenLabs",
+   "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe"
+  },
+  "ashby:elevenlabs:0b3a97d4-193c-4b47-9888-7ef5803ed945": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-10T08:41:53+00:00",
+   "company": "ElevenLabs",
+   "title": "Full-stack Engineer - Creative Agents",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945"
+  },
+  "ashby:elevenlabs:b8a111fa-9fd5-44d0-97ed-8fd1280be4ef": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "ElevenLabs",
+   "title": "Applied AI Engineer",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef"
+  },
+  "workday:caci:333158": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "CACI",
+   "title": "Web Application Developer – Early Career",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158"
+  },
+  "workday:caci:333210": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "CACI",
+   "title": "Data Scientist",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Fort-Belvoir-VA-US/Data-Scientist_333210"
+  },
+  "workday:caci:333194": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "CACI",
+   "title": "AI/ML Engineer (Computer Vision)",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Lead-AI-ML-Engineer--Computer-Vision-_333194"
+  },
+  "workday:caci:333195": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "CACI",
+   "title": "AI/ML Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-ML-Engineer_333195"
+  },
+  "workday:ngc:R10254920": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Northrop Grumman",
+   "title": "2026 Associate Thermal Mechanical Engineer  - Dulles",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-Thermal-Mechanical-Engineer----Dulles_R10254920"
+  },
+  "workday:ngc:R10254916": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Northrop Grumman",
+   "title": "Consulting Systems Engineer – Electronically Protected Radar",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Consulting-Systems-Engineer---Electronically-Protected-Radar_R10254916"
+  },
+  "workday:boeing:JR2026523876": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T21:24:11+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate Systems Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kennedy-Space-Center-FL/Associate-Systems-Engineer_JR2026523876"
+  },
+  "workday:boeing:JR2026526246": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "The Boeing Company",
+   "title": "Mission Systems Engineers (Associate or Experienced)",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Mission-Systems-Engineers--Associate-or-Experienced-_JR2026526246"
+  },
+  "workday:pae:R0172475": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Amentum",
+   "title": "Junior RF Engineer",
+   "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-RF-Engineer_R0172475"
+  },
+  "workday:bah:R0251196": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Booz Allen",
+   "title": "AI Software Developer, Junior",
+   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"
+  },
+  "workday:bah:R0247378": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Booz Allen",
+   "title": "Data Scientist",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Data-Scientist_R0247378"
+  },
+  "workday:bah:R0251014": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Booz Allen",
+   "title": "Data Scientist, Mid",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist--Mid_R0251014"
+  },
+  "workday:thales:NL - Temporary worker (Uitzendkracht)": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Thales",
+   "title": "Radar Software Engineer C++ (SMU)",
+   "url": "https://thales.wd3.myworkdayjobs.com/Careers/job/Hengelo/Software-Engineer-C----SMU-Team-_R0324011-1"
+  },
+  "workday:nvidia:JR2011879": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NVIDIA",
+   "title": "System Design Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Design-Engineer---New-College-Grad-2026_JR2011879"
+  },
+  "workday:dxctechnology:51591169": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-08T02:05:51+00:00",
+   "company": "DXC Technology",
+   "title": "Junior Oracle Infrastructure & Database Engineer",
+   "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANT---BELFAST/Junior-Oracle-Infrastructure---Database-Engineer_51591169"
+  },
+  "workday:cae:123921": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "CAE",
+   "title": "Junior Software Developer - System Integration Labs (North Shore)",
+   "url": "https://cae.wd3.myworkdayjobs.com/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1"
+  },
+  "amazon:amazon:10571838": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-10T00:55:42+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Robotics Software Engineer, Fauna",
+   "url": "https://www.amazon.jobs/en/jobs/10571838/robotics-software-engineer-fauna"
+  },
+  "simplify:new-grad:a717e2b7-bb91-4da7-b5fc-8f366f7f7b5b": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-07T15:38:40+00:00",
+   "company": "Texas Capital Bank",
+   "title": "Associate Engineer",
+   "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Associate-Engineer_JR105779"
+  },
+  "simplify:new-grad:7ef78771-a2e4-4642-88ef-6a719ad563eb": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-10T08:41:53+00:00",
+   "company": "L3Harris Technologies",
+   "title": "Associate Systems Engineer",
+   "url": "https://jobs.l3harris.com/job/Waco-Associate,-Systems-Engineering-TX-76705/1437638600/?ats=successfactors"
+  },
+  "simplify:new-grad:be3d4ee8-4dc8-4c20-bae9-49826174e869": {
+   "first_seen": "2026-10-07T15:38:40+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "NVIDIA",
+   "title": "Systems Software Engineer - AI and Cloud",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458"
+  },
+  "greenhouse:tenstorrent:5257063007": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Tenstorrent",
+   "title": "Datacenter & Agentic AI Workload Performance Optimization Engineer",
+   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5257063007"
+  },
+  "greenhouse:stripe:8144196": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T08:41:53+00:00",
+   "company": "Stripe",
+   "title": "AI Engineer",
+   "url": "https://stripe.com/jobs/search?gh_jid=8144196"
+  },
+  "greenhouse:accenturefederalservices:4719108006": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Accenture Federal Services",
+   "title": "AI and Data Engineer",
+   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4719108006?gh_jid=4719108006"
+  },
+  "ashby:langchain:dfbba971-a7e2-4feb-a0d9-8e38a1155134": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T15:54:26+00:00",
+   "company": "Langchain",
+   "title": "Deployed Engineer (Early Career-NYC)",
+   "url": "https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134"
+  },
+  "ashby:langchain:0f35c8e1-9318-411d-929b-04c60e6d8522": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T15:54:26+00:00",
+   "company": "Langchain",
+   "title": "Deployed Engineer (Early Career- SF)",
+   "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522"
+  },
+  "workday:guidehouse:45184": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Guidehouse",
+   "title": "Data Scientist",
+   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Data-Scientist_45184"
+  },
+  "workday:micron:JR114527": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Micron Technology",
+   "title": "New College Grad - Facilities Electrical Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Facilities-Electrical-Engineer_JR114527"
+  },
+  "workday:micron:JR101714": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Micron Technology",
+   "title": "New College Grad - Photolithography Process Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Photolithography-Process-Engineer_JR101714"
+  },
+  "workday:capitalone:R1003291": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-platform-Services-_R1003291-1"
+  },
+  "workday:capitalone:R1001541": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Capital One",
+   "title": "Machine Learning Engineer 3",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Machine-Learning-Engineer-3_R1001541-2"
+  },
+  "workday:caci:328342": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "CACI",
+   "title": "Data Scientist",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Alexandria-VA-US/Data-Scientist_328342"
+  },
+  "workday:caci:333249": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "CACI",
+   "title": "Entry Level C# Software Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249"
+  },
+  "workday:cadence:R53165": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Cadence Design Systems",
+   "title": "Software Engineer (Circuit Analysis, EDA frameworks, AI agents)",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BURNABY-01/Software-Engineer--Circuit-Analysis--EDA-frameworks--AI-agents-_R53165"
+  },
+  "workday:globalhr:01879900": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T02:05:51+00:00",
+   "company": "RTX",
+   "title": "Radar Systems Engineer (P2)",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Radar-Systems-Engineer--P2-_01879900"
+  },
+  "workday:ngc:R10246961": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-07T21:24:11+00:00",
+   "company": "Northrop Grumman",
+   "title": "Associate Mechanical Engineer/Mechanical Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Associate-Mechanical-Engineer-Mechanical-Engineer_R10246961"
+  },
+  "workday:ngc:R10255059": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-07T21:24:11+00:00",
+   "company": "Northrop Grumman",
+   "title": "Research Scientist - 3 / 4",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Research-Scientist---3---4_R10255059-1"
+  },
+  "workday:analogdevices:R267010": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Analog Devices",
+   "title": "Associate Processing Sustaining Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-WA-Camas/Associate-Processing-Sustaining-Engineer_R267010"
+  },
+  "workday:axos:JR5526": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Axos Bank",
+   "title": "JBATA - AI Engineer",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526"
+  },
+  "workday:boeing:JR2026525814": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "The Boeing Company",
+   "title": "Design and Analysis Engineer (Associate or Mid-Level)",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Patuxent-River-MD/Design-and-Analysis-Engineer--Associate-or-Mid-Level-_JR2026525814"
+  },
+  "workday:boeing:JR2026525833": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate Software Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026525833"
+  },
+  "workday:boeing:JR2026520969": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate Enterprise Resource Planning Information Technology Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Associate-Enterprise-Resource-Planning-Information-Technology-Engineer_JR2026520969"
+  },
+  "workday:boeing:JR2026524267": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate Mechanical Systems Design & Analysis Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Saint-Charles-MO/Associate-Mechanical-Systems-Design---Analysis-Engineer_JR2026524267"
+  },
+  "workday:bah:R0251247": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Booz Allen",
+   "title": "Data Scientist",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0251247"
+  },
+  "workday:bah:R0251223": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Booz Allen",
+   "title": "Machine Learning Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Machine-Learning-Engineer_R0251223"
+  },
+  "workday:bah:R0250957": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Booz Allen",
+   "title": "Computer Vision AI Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Computer-Vision-AI-Engineer_R0250957"
+  },
+  "workday:bah:R0251236": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Booz Allen",
+   "title": "Wireless and Edge Infrastructure Cybersecurity Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Wireless-and-Edge-Infrastructure-Cybersecurity-Engineer_R0251236"
+  },
+  "workday:travelers:R-52933": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Travelers",
+   "title": "Data Engineer I - Cloud Data Modernization - AWS, Databricks, DBT, SQL, AI",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I---Cloud-Data-Modernization---AWS--Databricks--DBT--SQL--AI_R-52933"
+  },
+  "workday:nvidia:JR2025036": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "NVIDIA",
+   "title": "Machine Learning Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer_JR2025036"
+  },
+  "workday:rb:R-0000033598": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "The Federal Reserve System",
+   "title": "AI Solutions Engineer - Experienced",
+   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Richmond-VA/AI-Solutions-Engineer---Experienced_R-0000033598-1"
+  },
+  "workday:hntb:R-31698": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "HNTB",
+   "title": "New Grad Engineer I: Project Controls - Summer 2027",
+   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Charlotte-NC/New-Grad-Engineer-I--Project-Controls---Summer-2027_R-31698-1"
+  },
+  "eightfold:qualcomm:446721159585": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Qualcomm",
+   "title": "#Wireless Software Engineer",
+   "url": "https://careers.qualcomm.com/careers/job/446721159585"
+  },
+  "eightfold:microsoft:1970393557023169": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Microsoft",
+   "title": "Applied ML Engineer",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023169"
+  },
+  "eightfold:microsoft:1970393557024073": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-10T15:54:26+00:00",
+   "company": "Microsoft",
+   "title": "Research Scientist - Economist",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557024073"
+  },
+  "amazon:amazon:10572196": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Applied Scientist , Prime Video Personalization and Discovery, Prime Video Personalization & Discovery",
+   "url": "https://www.amazon.jobs/en/jobs/10572196/applied-scientist-prime-video-personalization-and-discovery-prime-video-personalization-discovery"
+  },
+  "simplify:new-grad:96c65a15-841f-4ff3-85f5-ac9291e3bb35": {
+   "first_seen": "2026-10-07T21:24:11+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "CACI",
+   "title": "Web Application Developer – Early Career",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158"
+  },
+  "greenhouse:stripe:8243617": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Stripe",
+   "title": "Machine Learning Engineer, Radar",
+   "url": "https://stripe.com/jobs/search?gh_jid=8243617"
+  },
+  "greenhouse:assystinc:4436912009": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T15:54:26+00:00",
+   "company": "ASSYST, Inc.",
+   "title": "Full Stack Developer (Entry Level)",
+   "url": "https://job-boards.greenhouse.io/assystinc/jobs/4436912009"
+  },
+  "greenhouse:freeformfuturecorp:8016243003": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Freeform",
+   "title": "FPGA Engineer (New Grad Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8016243003"
+  },
+  "ashby:spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T15:54:26+00:00",
+   "company": "SpruceID",
+   "title": "Full-Stack Software Engineer (New Grad) – Remote",
+   "url": "https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e"
+  },
+  "ashby:tracelabs:84f1786a-1f06-4798-892c-682a6ab07ba5": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Trace Labs",
+   "title": "Machine Learning Engineer, Applied",
+   "url": "https://jobs.ashbyhq.com/tracelabs/84f1786a-1f06-4798-892c-682a6ab07ba5"
+  },
+  "workday:globalfoundries:JR-2501678": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "GlobalFoundries",
+   "title": "3D Heterogeneous Integration Design Enablement Engineer (2026 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678"
+  },
+  "workday:barrywehmiller:R023049": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Barry-Wehmiller",
+   "title": "Entry Level Software Engineer",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R023049"
+  },
+  "workday:pg:R000160035": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Procter & Gamble",
+   "title": "Associate Researcher – Functional Fibers Pilot Operations",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/GPDF--TSDC-TECH-CENTER/Associate-Researcher---Functional-Fibers-Pilot-Operations_R000160035"
+  },
+  "workday:pg:R000158191": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Procter & Gamble",
+   "title": "Hair Care R&D Associate Researcher",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Hair-Care-R-D-Associate-Researcher_R000158191"
+  },
+  "workday:pg:R000158482": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Procter & Gamble",
+   "title": "Artificial Intelligence Engineer",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/PANAMA-BUSINESS-CENTER/Artificial-Intelligence-Engineer_R000158482"
+  },
+  "workday:saabusa:R-03186": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Saab",
+   "title": "Associate Systems Engineer",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Systems-Engineer_R-03186"
+  },
+  "workday:bah:R0243287": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Booz Allen",
+   "title": "Computer Vision Software Engineer, Mid",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/Computer-Vision-Software-Engineer--Mid_R0243287"
+  },
+  "workday:nordstrom:R-885027": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-07T23:48:37+00:00",
+   "company": "Nordstrom",
+   "title": "Associate Apparel Product Developer, Women's Rack (Hybrid, Seattle)",
+   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Associate-Apparel-Product-Developer--Women-s-Rack--Hybrid--Seattle-_R-885027"
+  },
+  "workday:abbott:31163984": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Abbott",
+   "title": "Associate Software Engineer",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984"
+  },
+  "simplify:new-grad:f3b1a57c-3417-445f-a783-33548934141a": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "L3Harris Technologies",
+   "title": "Associate Software Engineering",
+   "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1437963000/?ats=successfactors"
+  },
+  "simplify:new-grad:399bfd90-c36b-42ac-b0e5-32e654c149ea": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "IXL Learning",
+   "title": "Software Engineer New Grad",
+   "url": "https://www.ixl.com/company/jobs?gh_jid=8862049002"
+  },
+  "simplify:new-grad:2d138a0f-44c8-4505-9071-ff9072e9a02b": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Axos Bank",
+   "title": "Junior AI Engineer",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Engineer_JR5526"
+  },
+  "simplify:new-grad:4a6bf39f-096b-480d-b7f0-2ad50e2998df": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Cisco",
+   "title": "Machine Learning Engineer",
+   "url": "https://careers.cisco.com/global/en/job/2026806"
+  },
+  "simplify:new-grad:24901885-b792-4344-a66a-26907a743ebc": {
+   "first_seen": "2026-10-07T23:48:37+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Otter.ai",
+   "title": "Software Engineer New Grad - Front-End",
+   "url": "https://otter.ai/careers?gh_jid=8016078003"
+  },
+  "ashby:chalk:927c74a5-1b40-490d-b3be-a29baec4db6f": {
+   "first_seen": "2026-10-08T02:05:51+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Chalk",
+   "title": "Software Engineer - New Grad",
+   "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"
+  },
+  "ashby:niantic-spatial:aa5cac58-e677-4238-9d90-f05f3da9cd4f": {
+   "first_seen": "2026-10-08T02:05:51+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Niantic Spatial",
+   "title": "AI Engineer, Computer Vision",
+   "url": "https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f"
+  },
+  "simplify:new-grad:edc4278f-b222-4879-adc6-0a1a97a007a6": {
+   "first_seen": "2026-10-08T02:05:51+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
+   "url": "https://lifeattiktok.com/search/7694054165508557109"
+  },
+  "simplify:new-grad:cf43075d-b9ba-4cce-b884-1d0b1597dcd4": {
+   "first_seen": "2026-10-08T02:05:51+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Applied Materials",
+   "title": "Software Engineer 1 New Grad",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
+  },
+  "simplify:new-grad:0750f5ca-d84f-422e-a917-baccdf94d7b1": {
+   "first_seen": "2026-10-08T02:05:51+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Applied Materials",
+   "title": "Software Engineer New Grad",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997"
+  },
+  "workday:boeing:JR2026522372": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate Loads and Dynamics Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Loads-and-Dynamics-Engineer_JR2026522372"
+  },
+  "workday:pae:R0172011": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Amentum",
+   "title": "Early Career Specialty Mechanical Engineer",
+   "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Oak-Ridge/Early-Career-Specialty-Mechanical-Engineer_R0172011"
+  },
+  "workday:kbr:R2130929": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "KBR",
+   "title": "Associate Engineer, Instrument & Controls",
+   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Associate-Engineer--Instrument---Controls_R2130929"
+  },
+  "workday:kbr:R2130932": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "KBR",
+   "title": "Associate Engineer, Mechanical",
+   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Associate-Engineer--Mechanical_R2130932"
+  },
+  "workday:manulife:JR26071444": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Manulife Financial",
+   "title": "Associate Software Technical Analyst (Finance & Treasury Systems)",
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Software-Technical-Analyst--Finance---Treasury-Systems-_JR26071444"
+  },
+  "workday:manulife:JR26100119": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Manulife Financial",
+   "title": "Associate Full-stack Software Engineer",
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Associate-Full-stack-Software-Engineer_JR26100119"
+  },
+  "workday:manulife:JR26091113": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-08T09:11:12+00:00",
+   "company": "Manulife Financial",
+   "title": "Associate Back End Software Engineer",
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Associate-Back-End-Software-Engineer_JR26091113"
+  },
+  "workday:accenture:R00332685": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Accenture",
+   "title": "Data and AI Engineer - Junior",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Data-and-AI-Engineer---Junior_R00332685"
+  },
+  "amazon:amazon:10572858": {
+   "first_seen": "2026-10-08T09:11:12+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Annapurna Labs (U.S.) Inc.",
+   "title": "Mechanical Engineer, Annapurna Labs, Machine Learning Hardware",
+   "url": "https://www.amazon.jobs/en/jobs/10572858/mechanical-engineer-annapurna-labs-machine-learning-hardware"
+  },
+  "greenhouse:cloudflare:8264687": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Cloudflare",
+   "title": "Software Engineer, Agentic Discovery",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8264687?gh_jid=8264687"
+  },
+  "greenhouse:motional:8016805003": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Motional",
+   "title": "Software Engineer, Autonomy Actions Release & Integration",
+   "url": "https://motional.com/open-positions/?gh_jid=8016805003#/8016805003"
+  },
+  "greenhouse:asana:8227390": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Asana",
+   "title": "Software Engineer, AI Teammates Experience",
+   "url": "https://www.asana.com/jobs/apply/8227390?gh_jid=8227390"
+  },
+  "greenhouse:10beauty:5259160007": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "10Beauty",
+   "title": "Associate Quality Test Engineer",
+   "url": "https://job-boards.greenhouse.io/10beauty/jobs/5259160007"
+  },
+  "greenhouse:doordashusa:8264542": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "DoorDash USA",
+   "title": "Software Engineer, Machine Learning Platform - Gen AI",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8264542"
+  },
+  "greenhouse:doordashusa:8264534": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "DoorDash USA",
+   "title": "Software Engineer, Machine Learning Platform - MDX",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8264534"
+  },
+  "greenhouse:doordashusa:8263726": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "DoorDash USA",
+   "title": "Software Engineer, ML Serving Platform",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263726"
+  },
+  "ashby:lumaai:278788c5-a288-41d8-92ca-f07a82310173": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Lumaai",
+   "title": "Research Scientist / Engineer – Performance Optimization",
+   "url": "https://jobs.ashbyhq.com/lumaai/278788c5-a288-41d8-92ca-f07a82310173"
+  },
+  "ashby:lumaai:d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Lumaai",
+   "title": "Research Scientist / Engineer – Training Infrastructure",
+   "url": "https://jobs.ashbyhq.com/lumaai/d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d"
+  },
+  "ashby:lumaai:c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Lumaai",
+   "title": "Software Engineer, Inference",
+   "url": "https://jobs.ashbyhq.com/lumaai/c4b9ff5f-40b2-40d4-9f6f-8b7aad9b8860"
+  },
+  "ashby:lumaai:3abaffc4-01f1-4d72-b20d-4c8474d8cc80": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Lumaai",
+   "title": "Research Scientist / Engineer – Reinforcement Learning Infrastructure",
+   "url": "https://jobs.ashbyhq.com/lumaai/3abaffc4-01f1-4d72-b20d-4c8474d8cc80"
+  },
+  "ashby:arch.co:3600530a-7f41-4583-8d92-443f6978c847": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Arch",
+   "title": "Operations Engineer | Early Careers, 2027 Start",
+   "url": "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847"
+  },
+  "ashby:arch.co:9fde8d03-9f47-44ac-bd14-53829722c06d": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Arch",
+   "title": "Software Engineer | Early Careers, 2027 Start",
+   "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
+  },
+  "lever:agile-defense:4ac86a23-3302-41ea-bac8-58f716f8a19b": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Agile Defense",
+   "title": "SME AI/ML Engineer",
+   "url": "https://jobs.lever.co/agile-defense/4ac86a23-3302-41ea-bac8-58f716f8a19b"
+  },
+  "workday:globalfoundries:JR-2605129": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "GlobalFoundries",
+   "title": "Semiconductor Manufacturing Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Semiconductor-Manufacturing-Engineer--2027-New-College-Graduate-_JR-2605129"
+  },
+  "workday:capitalone:R1003357": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Capital One",
+   "title": "Applied Researcher 4 (AI Foundations: Multimodal Guardrails and VLM's)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Applied-Researcher-4--AI-Foundations--Multimodal-Guardrails-and-VLM-s-_R1003357-1"
+  },
+  "workday:capitalone:R1003244": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Capital One",
+   "title": "Machine Learning Engineer 4",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Machine-Learning-Engineer-4_R1003244"
+  },
+  "workday:intel:JR0287723": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Intel",
+   "title": "AI Frameworks Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Frameworks-Engineer_JR0287723"
+  },
+  "workday:ngc:R10255194": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Northrop Grumman",
+   "title": "2027 Associate Mechanical Engineer/Mechanical Engineer - Annapolis MD",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-Mechanical-Engineer-Mechanical-Engineer---Annapolis-MD_R10255194-1"
+  },
+  "workday:analogdevices:R266809": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Analog Devices",
+   "title": "Embedded AI Tools Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-AI-Tools-Engineer_R266809"
+  },
+  "workday:analogdevices:R266120": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Analog Devices",
+   "title": "Associate Analog Design Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Associate-Analog-Design-Engineer_R266120"
+  },
+  "workday:analogdevices:R266124": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Analog Devices",
+   "title": "Associate Design Evaluation Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NJ-Somerset/Associate-Design-Evaluation-Engineer_R266124"
+  },
+  "workday:ciena:R031840": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Ciena",
+   "title": "Verification and Field Application Engineer - New Grad",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-and-Field-Application-Engineer---New-Grad_R031840"
+  },
+  "workday:boeing:JR2026518236": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "The Boeing Company",
+   "title": "Data Scientist",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Everett-WA/Data-Scientist_JR2026518236-1"
+  },
+  "workday:boeing:JR2026525000": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Boeing",
+   "title": "Associate Structural Analysis Engineer – Wing & Empennage LCPT",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate-Structural-Analysis-Engineer---Wing---Empennage-LCPT_JR2026525000-3"
+  },
+  "workday:avav:9071": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "AeroVironment",
+   "title": "Associate Mechanical Engineer",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Associate-Mechanical-Engineer_9071"
+  },
+  "workday:keybank:R-42585": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "KeyBank",
+   "title": "Software Engineer - GCP GenAI",
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/4910-Tiedeman-Road-Brooklyn-OH/Software-Engineer---GCP-GenAI_R-42585"
+  },
+  "workday:hpe:1216236": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Data Scientist - Agentic AI",
+   "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Juan-Puerto-Rico-Puerto-Rico/Data-Scientist---Agentic-AI_1216236-5"
+  },
+  "workday:bah:R0248060": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Booz Allen",
+   "title": "Full Stack Software Engineer, Junior",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Software-Engineer--Junior_R0248060"
+  },
+  "workday:bah:R0251308": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Booz Allen",
+   "title": "Data Scientist, Mid",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist--Mid_R0251308"
+  },
+  "workday:bah:R0246156": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Booz Allen",
+   "title": "Applied AI Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Applied-AI-Engineer_R0246156"
+  },
+  "workday:bah:R0251486": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Booz Allen",
+   "title": "AI Solution Developer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/AI-Solution-Developer_R0251486"
+  },
+  "workday:bah:R0251266": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Booz Allen",
+   "title": "Machine Learning Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Machine-Learning-Engineer_R0251266"
+  },
+  "workday:nxp:R-10066844": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NXP Semiconductors",
+   "title": "AI Engineer – Foundational Models with Multi-Modality (Analog IC Design)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Eindhoven/AI-Engineer---Foundational-Models-with-Multi-Modality--Analog-IC-Design-_R-10066844"
+  },
+  "workday:cat:R0000395606": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Caterpillar",
+   "title": "Autonomy Positioning Engineer",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Autonomy-Engineer---Positioning_R0000395606"
+  },
+  "workday:ms:JR004784": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Morgan Stanley",
+   "title": "Machine Learning Researcher",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Machine-Learning-Researcher_JR004784-1"
+  },
+  "workday:tsys:R0075515": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Global Payments",
+   "title": "Payments Data Scientist",
+   "url": "https://tsys.wd1.myworkdayjobs.com/tsys/job/CINCINNATI-OHIO/Payments-Data-Scientist_R0075515-1"
+  },
+  "workday:allstate:R35481": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Allstate Insurance Company",
+   "title": "AI Product Engineer (Copilot & Power Platform) (Remote - US)",
+   "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R35481-1"
+  },
+  "workday:manulife:JR26091725": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Manulife Financial",
+   "title": "Associate Full-stack Software Engineer",
+   "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Associate-Full-stack-Software-Engineer_JR26091725"
+  },
+  "workday:abbott:31161969": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T17:27:29+00:00",
+   "company": "Abbott",
+   "title": "Associate Manufacturing Engineer",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Puerto-Rico---Arecibo/Associate-Manufacturing-Engineer_31161969"
+  },
+  "simplify:new-grad:60306e7f-505d-46e5-9416-d35214b79936": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "AeroVironment",
+   "title": "Associate Software Engineer",
+   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Associate-Software-Engineer_9016"
+  },
+  "simplify:new-grad:00979e52-fa34-4186-be7a-2c63e2c08052": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Abbott",
+   "title": "Associate Software Engineer",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984"
+  },
+  "simplify:new-grad:458a5998-3b41-4e61-a211-34dc5d36ea88": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "CACI",
+   "title": "Entry Level C# Software Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249"
+  },
+  "simplify:new-grad:ec1b1f5a-50dd-40e3-88f4-c7842d37754c": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Barry-Wehmiller",
+   "title": "Entry Level Software Engineer",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R023049"
+  },
+  "simplify:new-grad:537aaa04-0077-4de4-9a8d-d828c5d80978": {
+   "first_seen": "2026-10-08T17:27:29+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Universal Health Services",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.uhsinc.com/jobs/368933?icims=1"
+  },
+  "greenhouse:tenstorrent:5257595007": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Tenstorrent",
+   "title": "Applied AI Engineer",
+   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5257595007"
+  },
+  "greenhouse:66degrees:6220259004": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "66degrees",
+   "title": "Associate AI/ML Engineer, Gradient Specialist",
+   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220259004"
+  },
+  "greenhouse:66degrees:6220280004": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "66degrees",
+   "title": "Associate Data Engineer, Gradient Specialist",
+   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220280004"
+  },
+  "greenhouse:66degrees:6220274004": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "66degrees",
+   "title": "Associate Software Engineer, Gradient Specialist",
+   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220274004"
+  },
+  "greenhouse:accenturefederalservices:4719859006": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Accenture Federal Services",
+   "title": "AI Augmented Full Stack Engineer",
+   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4719859006?gh_jid=4719859006"
+  },
+  "greenhouse:rocketlab:8013612003": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Rocket Lab Corporation",
+   "title": "Junior RF Systems Engineer",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8013612003"
+  },
+  "greenhouse:spacex:8880556002": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "SpaceX",
+   "title": "AI Security Software Engineer (Starshield)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8880556002?gh_jid=8880556002"
+  },
+  "ashby:hedra:f28645f7-2bed-4754-9da2-a3aaa7d6aa27": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Hedra",
+   "title": "Inference Optimization Engineer",
+   "url": "https://jobs.ashbyhq.com/hedra/f28645f7-2bed-4754-9da2-a3aaa7d6aa27"
+  },
+  "ashby:handshake:42aca7f5-2f58-40ef-a6ce-19027d32a12f": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Handshake",
+   "title": "Machine Learning Engineer",
+   "url": "https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f"
+  },
+  "ashby:openai:082f4d82-499f-4150-892f-0b0d1105fffe": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "OpenAI",
+   "title": "Data Scientist, FinEng",
+   "url": "https://jobs.ashbyhq.com/openai/082f4d82-499f-4150-892f-0b0d1105fffe"
+  },
+  "lever:field-ai:7e41ac8f-4269-492b-9e1d-97b30a00c92b": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Field AI",
+   "title": "Mechatronics Engineer, Robotics Hardware",
+   "url": "https://jobs.lever.co/field-ai/7e41ac8f-4269-492b-9e1d-97b30a00c92b"
+  },
+  "lever:field-ai:f26ea8d7-81d6-45b2-9af6-28d67406815d": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Field AI",
+   "title": "Systems Engineer, Robotics Hardware, Large Wheeled Platforms",
+   "url": "https://jobs.lever.co/field-ai/f26ea8d7-81d6-45b2-9af6-28d67406815d"
+  },
+  "workday:guidehouse:43108": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Guidehouse",
+   "title": "Epidemiologist Data Scientist",
+   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Epidemiologist-Data-Scientist_43108"
+  },
+  "workday:micron:JR114206": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Micron Technology",
+   "title": "AI Ops Solution Intake & Feasibility Analyst",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Ops-Solution-Intake---Feasibility-Analyst_JR114206"
+  },
+  "workday:micron:JR114667": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Micron Technology",
+   "title": "New College Grad - Process Integration Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Process-Integration-Engineer_JR114667"
+  },
+  "workday:micron:JR111826": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Micron Technology",
+   "title": "AI Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1"
+  },
+  "workday:micron:JR111832": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Micron Technology",
+   "title": "Full Stack AI Engineer (Industrial and Physical AI)",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer--Industrial-and-Physical-AI-_JR111832"
+  },
+  "workday:caci:331005": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "CACI",
+   "title": "AI Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/AI-Engineer_331005"
+  },
+  "workday:amat:R2622877": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Applied Materials",
+   "title": "CV/ML/DL Algorithm Developer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2622877-1"
+  },
+  "workday:analogdevices:R266702": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Analog Devices",
+   "title": "Principle Robotics Software Engineer (Physical AI)",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Principal-Engineer--AI-ML-Software_R266702"
+  },
+  "workday:bmo:R260021450": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Bank of Montreal",
+   "title": "Software Developer ( Early Career )-15",
+   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1"
+  },
+  "workday:curtisswright:JR12546": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Curtiss-Wright Corporation",
+   "title": "Quality Assurance Engineer, Associate",
+   "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OH-Middleburg-Hts-Nuclear/Quality-Assurance-Engineer--Associate_JR12546-1"
+  },
+  "workday:ngc:R10255374": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Northrop Grumman",
+   "title": "2027 Associate Electrical Engineer / Electrical Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer_R10255374"
+  },
+  "workday:ngc:R10254327": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Northrop Grumman",
+   "title": "2027 Associate Energetics Industrial Engineer - Elkton MD",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/XMLNAME-2027-Associate-Energetics-Industrial-Engineer---Elkton-MD_R10254327"
+  },
+  "workday:boeing:JR2026522010": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate Software Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026522010"
+  },
+  "workday:boeing:JR2026511561": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "The Boeing Company",
+   "title": "Manufacturing Engineer (Associate or Experienced)",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Smithfield-PA/Manufacturing-Engineer--Associate-or-Experienced-_JR2026511561-1"
+  },
+  "workday:boeing:JR2026514865": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "The Boeing Company",
+   "title": "Payloads Design Engineer (Associate and Experienced)",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---North-Charleston-SC/Struct---Payload-Design-Engr--Payload-Systems-Design-_JR2026514865-2"
+  },
+  "workday:boeing:JR2026520962": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "The Boeing Company",
+   "title": "Associate or Mid-Level Airworthiness & Regulatory Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-or-Mid-Level-Airworthiness---Regulatory-Engineer_JR2026520962"
+  },
+  "workday:boeing:JR2026511989": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "The Boeing Company",
+   "title": "Full Stack Data Scientist",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Full-Stack-Data-Scientist_JR2026511989"
+  },
+  "workday:avav:8990": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "AeroVironment",
+   "title": "Associate Systems Engineer",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Associate-Systems-Engineer_8990"
+  },
+  "workday:gevernova:R5051000": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "GE Vernova",
+   "title": "Research Engineer, Power Systems",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Research-Engineer--Power-Systems_R5051000-2"
+  },
+  "workday:disney:10161936": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "The Walt Disney Company",
+   "title": "Associate Marketing Data Scientist",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936"
+  },
+  "workday:moog:R-26-20559": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Moog",
+   "title": "Associate Product Engineer",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Niagara-Falls-NY/Associate-Product-Engineer_R-26-20559"
+  },
+  "workday:moog:R-26-19750": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Moog",
+   "title": "Associate Design Engineer, PWB Design",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Design-Engineer--PWB-Design_R-26-19750"
+  },
+  "workday:truist:R0119972": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Truist Bank",
+   "title": "Associate Software Engineer--Python & Data Analytics",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972"
+  },
+  "workday:truist:R0118840": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Truist Bank",
+   "title": "Data Scientist I",
+   "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Data-Scientist-I_R0118840"
+  },
+  "workday:rollsroyce:JR6160142": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Rolls-Royce",
+   "title": "Junior Machine Learning Engineering",
+   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142"
+  },
+  "workday:raymondjames:New York, New York - United States": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Raymond James Financial",
+   "title": "AI Business Enablement Analyst",
+   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/New-York-New-York---United-States/AI-Business-Engineer---Investment-Banking-Experience_R-0013200"
+  },
+  "workday:monolithicpower:R-2040": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Monolithic Power Systems",
+   "title": "New Grad Applications Engineer",
+   "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/New-Grad-Applications-Engineer_R-2040"
+  },
+  "workday:abbott:31160332": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Abbott",
+   "title": "AI Platform Engineer",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--5505-Endeavor-Ln/AI-Platform-Engineer_31160332-2"
+  },
+  "workday:r1rcm:R260000007549": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "R1 RCM",
+   "title": "Applied AI Engineer (R37)",
+   "url": "https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Remote-USA/Applied-AI-Engineer--R37_R260000007549"
+  },
+  "workday:r1rcm:R260000007542": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "R1 RCM",
+   "title": "Software Engineer - ML Ops (R37)",
+   "url": "https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542"
+  },
+  "workday:r1rcm:R260000007547": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "R1 RCM",
+   "title": "Research Scientist (R37)",
+   "url": "https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Remote-USA/Research-Scientist--R37-_R260000007547"
+  },
+  "workday:r1rcm:R260000007540": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "R1 RCM",
+   "title": "ML Engineer (R37)",
+   "url": "https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Remote-USA/ML-Engineer--R37-_R260000007540"
+  },
+  "eightfold:qualcomm:446721429496": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Qualcomm",
+   "title": "#Machine Learning Engineer - Generative AI",
+   "url": "https://careers.qualcomm.com/careers/job/446721429496"
+  },
+  "eightfold:microsoft:1970393557001498": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Microsoft",
+   "title": "AI Security Engineer",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557001498"
+  },
+  "eightfold:microsoft:1970393557026683": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-08T23:28:13+00:00",
+   "company": "Microsoft",
+   "title": "Software Engineer II (Agentic AI)",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557026683"
+  },
+  "amazon:amazon:10573921": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Amazon Development Center U.S., Inc.",
+   "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+   "url": "https://www.amazon.jobs/en/jobs/10573921/software-development-engineer-agentic-ai-velocity-labs"
+  },
+  "amazon:amazon:10573806": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Annapurna Labs (U.S.) Inc.",
+   "title": "Applied Scientist, Machine Learning Accelerator - Annapurna Labs",
+   "url": "https://www.amazon.jobs/en/jobs/10573806/applied-scientist-machine-learning-accelerator-annapurna-labs"
+  },
+  "amazon:amazon:10573715": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Twitch Interactive, Inc. - D48",
+   "title": "Applied Scientist",
+   "url": "https://www.amazon.jobs/en/jobs/10573715/applied-scientist"
+  },
+  "amazon:amazon:10573755": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Amazon Development Center U.S., Inc.",
+   "title": "Applied Scientist, AWS Security Services",
+   "url": "https://www.amazon.jobs/en/jobs/10573755/applied-scientist-aws-security-services"
+  },
+  "simplify:new-grad:d6cb0ffd-5f72-4378-ac35-53241d665b5d": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-09T06:23:16+00:00",
+   "company": "Allstate Insurance Company",
+   "title": "AI Product Engineer - Copilot & Power Platform",
+   "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R35481-1"
+  },
+  "simplify:new-grad:e2182c1b-5804-476c-b3e7-fd9a76bfa949": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer New Grad - E-Commerce User Growth",
+   "url": "https://lifeattiktok.com/search/7694352871949682997"
+  },
+  "simplify:new-grad:18a4d979-0dfb-4e04-b57b-34966be64717": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
+   "url": "https://lifeattiktok.com/search/7694351754099804469"
+  },
+  "simplify:new-grad:fa94c35b-fcdd-4481-b510-d9d27045e0ba": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "L3Harris Technologies",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1438456800/?ats=successfactors"
+  },
+  "simplify:new-grad:c983d97d-884a-45c6-b32b-9e1fbc3c4f50": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Leidos",
+   "title": "Entry-Level Electrical Hardware Design Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Electrical-Hardware-Design-Engineer_R-00194096"
+  },
+  "simplify:new-grad:d89f0ee8-17d9-4a58-9c3e-9d4cfaf2b635": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Highmark Health",
+   "title": "ETDP Associate - Software Engineering",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J288020"
+  },
+  "simplify:new-grad:ab1c9134-c407-4e0a-8adc-34b305b02505": {
+   "first_seen": "2026-10-08T23:28:13+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "R1 RCM",
+   "title": "Software Engineer - ML Ops",
+   "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542"
+  },
+  "greenhouse:spacex:8880570002": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T15:54:26+00:00",
+   "company": "SpaceX",
+   "title": "AI Security Software Engineer (Starshield)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8880570002?gh_jid=8880570002"
+  },
+  "greenhouse:spacex:8857314002": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "SpaceX",
+   "title": "Electrical Test Engineer, AI Satellites (Starmind)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8857314002?gh_jid=8857314002"
+  },
+  "greenhouse:spacex:8880868002": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "SpaceX",
+   "title": "Software Engineer (AI Data Engineering)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8880868002?gh_jid=8880868002"
+  },
+  "ashby:physicalintelligence:16093ed0-49de-429e-81d4-6d8b5d715c01": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Physicalintelligence",
+   "title": "ML Infra Engineer, Platform",
+   "url": "https://jobs.ashbyhq.com/physicalintelligence/16093ed0-49de-429e-81d4-6d8b5d715c01"
+  },
+  "ashby:aurelian:a2bc965f-d639-41f7-946a-67c05c22e04e": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Aurelian",
+   "title": "Software Engineer (New Grad)",
+   "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e"
+  },
+  "workday:altera:R03301": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Altera Corporation",
+   "title": "ML/AI Timing and Power Flow Engineer",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/ML-AI-Timing-and-Power-Flow-Engineer_R03301"
+  },
+  "workday:micron:JR114193": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Micron Technology",
+   "title": "New College Grad - ENGINEER, TD IE OPS",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---ENGINEER--TD-IE-OPS_JR114193"
+  },
+  "workday:boeing:JR2026524375": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "The Boeing Company",
+   "title": "Fault & Autonomy Engineer - Experimental Space Programs (Associate or Experienced)",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Fault---Autonomy-Engineer---Experimental-Space-Programs--Associate-or-Experienced-_JR2026524375-1"
+  },
+  "workday:nxp:R-10064931": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NXP Semiconductors",
+   "title": "Field Application Engineer – Radar System",
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Field-Application-Engineer---Radar-System_R-10064931"
+  },
+  "workday:tsys:R0073963": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Global Payments",
+   "title": "AI Engineer",
+   "url": "https://tsys.wd1.myworkdayjobs.com/tsys/job/ALPHARETTA-GEORGIA/AI-Engineer_R0073963"
+  },
+  "amazon:amazon:10574268": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Software Development Engineer, Ads AI Core Infra",
+   "url": "https://www.amazon.jobs/en/jobs/10574268/software-development-engineer-ads-ai-core-infra"
+  },
+  "simplify:new-grad:e0a34853-b9e7-41f5-b226-89fda1f5aadc": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Micron Technology",
+   "title": "AI Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1"
+  },
+  "simplify:new-grad:303c8256-045c-4c80-8d9a-aec169bed304": {
+   "first_seen": "2026-10-09T06:23:16+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Uber",
+   "title": "Graduate Software Engineer 2",
+   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301355"
+  },
+  "greenhouse:accenturefederalservices:4720595006": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Accenture Federal Services",
+   "title": "Junior Automation Test Engineer",
+   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4720595006?gh_jid=4720595006"
+  },
+  "greenhouse:freedomconsulting:5248064007": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Freedom Technology Solutions Group",
+   "title": "Junior Software Engineer 780",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007"
+  },
+  "greenhouse:voyagertechnologiesinc:4437875009": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Voyager Technologies, Inc.",
+   "title": "Robotics Software Engineer",
+   "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4437875009"
+  },
+  "ashby:cognition:023cea7e-70db-4f79-8e82-c57564466622": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Cognition",
+   "title": "Research Engineer, Safety & Alignment",
+   "url": "https://jobs.ashbyhq.com/cognition/023cea7e-70db-4f79-8e82-c57564466622"
+  },
+  "workday:micron:JR102433": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Micron Technology",
+   "title": "New College Grad - OI System Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/New-College-Grad---OI-System-Engineer_JR102433"
+  },
+  "workday:micron:JR109479": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Micron Technology",
+   "title": "New College Grad - Yield Enhancement Electrical Failure Analysis Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---Yield-Enhancement-Electrical-Failure-Analysis-Engineer_JR109479"
+  },
+  "workday:caci:330984": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "CACI",
+   "title": "Data Scientist",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Tampa-FL-US/Data-Scientist_330984"
+  },
+  "workday:boeing:JR2026502509": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Boeing",
+   "title": "Guidance Navigation & Control Engineer (Associate or Experienced)",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Guidance-Navigation---Control-Engineer--Associate-or-Experienced-_JR2026502509"
+  },
+  "workday:boeing:JR2026526520": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Boeing",
+   "title": "Full Stack Data Scientist",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Full-Stack-Data-Scientist_JR2026526520-2"
+  },
+  "workday:boeing:JR2026524693": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Boeing",
+   "title": "Associate Systems Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Associate-Systems-Engineer_JR2026524693"
+  },
+  "workday:bah:R0244606": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Booz Allen",
+   "title": "Communications and Wireless Systems Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Communications-and-Wireless-Systems-Engineer_R0244606"
+  },
+  "workday:bah:R0251381": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Booz Allen",
+   "title": "Data Scientist",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0251381"
+  },
+  "workday:nxp:R-10064608": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NXP Semiconductors",
+   "title": "Junior NFC/UWB System Validation Engineer (m/f/d)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Junior-NFC-UWB-System-Validation-Engineer--m-f-d-_R-10064608"
+  },
+  "workday:jabil:J2466021": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Jabil",
+   "title": "Graduate Project Engineer",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Bray/Graduate-Project-Engineer_J2466021"
+  },
+  "workday:cat:R0000390370": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "Caterpillar",
+   "title": "SIL Validation Engineer(Perception)",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/SIL-Validation-Engineer-Perception-_R0000390370"
+  },
+  "workday:gevernova:R5055045": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-09T15:23:11+00:00",
+   "company": "GE Vernova",
+   "title": "Embedded Computing Research Engineer - Embedded Systems",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Embedded-Computing-Research-Engineer---Embedded-Systems_R5055045-3"
+  },
+  "workday:lseg:R0123734": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "LSEG",
+   "title": "Engineering Graduate Programme (Norwell)",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Norwell-Massachusetts/Engineering-Graduate-Programme--Norwell-_R0123734"
+  },
+  "workday:ag:JR10441182": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Airbus",
+   "title": "Robotics Supervision SW Engineer (f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Robotics-Supervision-SW-Engineer--f-m-_JR10441182"
+  },
+  "workday:alliance:R00213378": {
+   "first_seen": "2026-10-09T15:23:11+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Nissan Global",
+   "title": "Energy Efficiency & Sustainability Engineer, Graduate Trainee",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cantabria/Environmental---Sustainability-Engineering--Graduate-Trainee_R00213378-1"
+  },
+  "greenhouse:spacex:8877862002": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "SpaceX",
+   "title": "New Graduate Engineer, Automation - '26/'27 (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002"
+  },
+  "greenhouse:spacex:8877857002": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "SpaceX",
+   "title": "New Graduate Engineer, Manufacturing - '26/'27 (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8877857002?gh_jid=8877857002"
+  },
+  "greenhouse:altentechnologyusa:5262456007": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "ALTEN Technology USA",
+   "title": "SAP ABAP & BTP Full Stack Developer (Entry-Level)",
+   "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5262456007"
+  },
+  "greenhouse:andurilindustries:5262324007": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Anduril Industries",
+   "title": "2027 Early Career Quality Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262324007?gh_jid=5262324007"
+  },
+  "greenhouse:andurilindustries:5262340007": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Anduril Industries",
+   "title": "2027 Early Career Systems Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
+  },
+  "greenhouse:tripadvisor:8221273": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Tripadvisor",
+   "title": "Jr Software Engineer",
+   "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8221273"
+  },
+  "ashby:whoop:a0509b1d-d5bf-4e44-920d-0ccdef9ff1c8": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Whoop",
+   "title": "Sensor Intelligence Engineer II (Optical Signal Processing)",
+   "url": "https://jobs.ashbyhq.com/whoop/a0509b1d-d5bf-4e44-920d-0ccdef9ff1c8"
+  },
+  "workday:micron:JR114754": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Micron Technology",
+   "title": "New College Grad - CAD Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---CAD-Engineer_JR114754"
+  },
+  "workday:globalfoundries:JR-2604100": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "GlobalFoundries",
+   "title": "Software Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100"
+  },
+  "workday:globalfoundries:JR-2604294": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "GlobalFoundries",
+   "title": "Design Manual Publishing & Ground Rule Validation Engineer (2027 New College Graduate)",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Design-Manual-Publishing---Ground-Rule-Validation-Engineer--2027-New-College-Graduate-_JR-2604294"
+  },
+  "workday:regeneron:R49902": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Regeneron Pharmaceuticals",
+   "title": "Associate Scientist",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Associate-Scientist_R49902"
+  },
+  "workday:capitalone:R1003494": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 5 (FM Hosting, LLM Inference)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--FM-Hosting--LLM-Inference-_R1003494-1"
+  },
+  "workday:capitalone:R1002514": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Capital One",
+   "title": "AI Engineer 4 (LLM Gateway, FM Hosting)",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--LLM-Gateway--FM-Hosting-_R1002514-1"
+  },
+  "workday:caci:333369": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "CACI",
+   "title": "AI Prompt Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_333369"
+  },
+  "workday:caci:333295": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "CACI",
+   "title": "Junior Software Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Junior-Software-Engineer_333295"
+  },
+  "workday:intel:JR0286233": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Intel",
+   "title": "AI Infrastructure Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Infrastructure-Engineer_JR0286233"
+  },
+  "workday:globalhr:01881604": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "RTX",
+   "title": "Control Systems & Signal Processing Engineer II",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Control-Systems---Signal-Processing-Engineer-II_01881604"
+  },
+  "workday:globalhr:01881408": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-09T20:13:01+00:00",
+   "company": "RTX",
+   "title": "Naval Radar - Systems Engineer II",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Naval-Radar---Systems-Engineer-II_01881408"
+  },
+  "workday:amat:R2629143": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Applied Materials",
+   "title": "Systems Engineer, New College Grad- Bachelor's/Master's (Santa Clara, CA)",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2629143"
+  },
+  "workday:broadcom:R025748": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Broadcom Limited",
+   "title": "AI Systems Performance Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/AI-Systems-Performance-Engineer_R025748"
+  },
+  "workday:boeing:JR2026526551": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Boeing",
+   "title": "Test & Evaluation Engineers (Entry Level, Associate or Experienced)",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Test---Evaluation-Engineers--Entry-Level--Associate-or-Experienced-_JR2026526551"
+  },
+  "workday:fanniemae:JR2908": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Fannie Mae",
+   "title": "Business Intelligence & AI Solutions Analyst- Single Family",
+   "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Plano-TX/Business-Intelligence---AI-Solutions-Analyst--Single-Family_JR2908"
+  },
+  "workday:bah:R0251496": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Booz Allen",
+   "title": "Data Scientist",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Data-Scientist_R0251496"
+  },
+  "workday:bah:R0251489": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Booz Allen",
+   "title": "Applied AI Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/Applied-AI-Engineer_R0251489"
+  },
+  "workday:bah:R0250189": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Booz Allen",
+   "title": "Agentic AI Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Agentic-AI-Engineer_R0250189"
+  },
+  "workday:bah:R0251453": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-09T20:13:01+00:00",
+   "company": "Booz Allen",
+   "title": "Modeling and Simulation Engineer, Junior",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453"
+  },
+  "workday:barclays:JR-0000130343": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Barclays",
+   "title": "Speech Analyst",
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Speech-Analyst_JR-0000130343"
+  },
+  "workday:moog:R-26-20606": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Moog",
+   "title": "AI Software Engineer",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/AI-Software-Engineer_R-26-20606"
+  },
+  "workday:cat:R0000398576": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Caterpillar",
+   "title": "Autonomy Engineering Integration Specialist",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Autonomy-Engineering-Integration-Specialist_R0000398576-1"
+  },
+  "workday:cat:R0000398038": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Caterpillar",
+   "title": "Autonomy Systems Engineering Specialist / Spécialiste en ingénierie des systèmes d’autonomie",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Autonomy-Systems-Engineering-Specialist---Spcialiste-en-ingnierie-des-systmes-d-autonomie_R0000398038"
+  },
+  "workday:toyota:10337203": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Toyota",
+   "title": "AI/ML Platform Engineer",
+   "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-North/AI-ML-Platform-Engineer_10337203"
+  },
+  "workday:ms:PT-JR040895": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Morgan Stanley",
+   "title": "Associate Investment Engineer - Parametric",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/Minneapolis-Minnesota-United-States-of-America/Associate-Investment-Engineer---Parametric_PT-JR040895"
+  },
+  "workday:nvidia:JR2026901": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NVIDIA",
+   "title": "Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901"
+  },
+  "workday:stryker:R575600": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Stryker",
+   "title": "Robotics Engineer, R&D Engineering Development Program",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Robotics-Engineer--R-D-Engineering-Development-Program_R575600"
+  },
+  "workday:mastercard:R-284863": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Mastercard",
+   "title": "Associate Analyst, Security Infrastructure Engineering & Architecture, Launch Program 2027 – St. Louis, MO, US",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Associate-Analyst--Security-Infrastructure-Engineering---Architecture--Launch-Program-2027---St-Louis--MO--US_R-284863"
+  },
+  "workday:amgen:R-257784": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Amgen",
+   "title": "Process Development Associate Scientist - Commercial Support",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Process-Development-Associate-Scientist---Commercial-Support_R-257784"
+  },
+  "workday:hpe:1213443": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-09T21:03:10+00:00",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Mechanical / Hardware Engineer I Graduate",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Mechanical---Hardware-Engineer-I-Graduate_1213443"
+  },
+  "workday:geaerospace:R5041307": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "GE Aerospace",
+   "title": "Entry Level - FPGA Design/Verification Engineer",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Entry-Level---FPGA-Design-Verification-Engineer_R5041307-1"
+  },
+  "amazon:amazon:10574837": {
+   "first_seen": "2026-10-09T20:13:01+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Amazon.com Services LLC - A57",
+   "title": "Data Scientist II - AMZ10564056",
+   "url": "https://www.amazon.jobs/en/jobs/10574837/data-scientist-ii-amz10564056"
+  },
+  "ashby:handshake:fb47a304-2ea1-4971-81cd-5183619f9a81": {
+   "first_seen": "2026-10-09T21:03:10+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Handshake",
+   "title": "Member of Technical Staff, Coding Agents",
+   "url": "https://jobs.ashbyhq.com/handshake/fb47a304-2ea1-4971-81cd-5183619f9a81"
+  },
+  "ashby:openai:a6ab3111-7092-4da2-a7a6-71e01351bfda": {
+   "first_seen": "2026-10-09T21:03:10+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "OpenAI",
+   "title": "Software Engineer, API Agents",
+   "url": "https://jobs.ashbyhq.com/openai/a6ab3111-7092-4da2-a7a6-71e01351bfda"
+  },
+  "workday:arrow:R247171": {
+   "first_seen": "2026-10-09T21:03:10+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Arrow Electronics",
+   "title": "Microsoft AI Engineer - CCoE, NA",
+   "url": "https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Colorado-Remote-Employees/Microsoft-AI-Engineer---CCoE--NA_R247171"
+  },
+  "workday:autodesk:26WD101494": {
+   "first_seen": "2026-10-09T21:03:10+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Autodesk",
+   "title": "Machine Learning Operations Developer,  AI/ML Platfor",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Machine-Learning-Operations-Developer---AI-ML-Platfor_26WD101494-1"
+  },
+  "workday:abbott:31163974": {
+   "first_seen": "2026-10-09T21:03:10+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Abbott",
+   "title": "Associate Research Scientist II",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--501-Charmany-Dr/Associate-Research-Scientist-II_31163974"
+  },
+  "greenhouse:icapitalnetwork:8880561002": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "iCapital",
+   "title": "Service Desk Engineer - Associate",
+   "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8880561002"
+  },
+  "greenhouse:accenturefederalservices:4720790006": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Accenture Federal Services",
+   "title": "Data Scientist",
+   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4720790006?gh_jid=4720790006"
+  },
+  "greenhouse:transmarketgroup:5262802007": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "TransMarket Group",
+   "title": "Junior Data Center/Desktop Engineer",
+   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5262802007?gh_jid=5262802007"
+  },
+  "greenhouse:robinhood:8220757": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Robinhood",
+   "title": "Software Engineer, AI Security",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8220757?t=gh_src=&gh_jid=8220757"
+  },
+  "ashby:physicalintelligence:14586c10-d913-43c5-8f7c-c77b5c438e4c": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Physicalintelligence",
+   "title": "ML Engineer - API Platform",
+   "url": "https://jobs.ashbyhq.com/physicalintelligence/14586c10-d913-43c5-8f7c-c77b5c438e4c"
+  },
+  "ashby:thinkingmachines:1d875087-b68d-4292-abed-7641a1e94fd8": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Thinkingmachines",
+   "title": "Software Engineer, Production Inference (Distributed Inference)",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/1d875087-b68d-4292-abed-7641a1e94fd8"
+  },
+  "lever:field-ai:9524c7c2-8be2-4463-afe3-7c1c60f7e6f2": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Field AI",
+   "title": "Robotics AI Engineer – Calibration, Localization, and Mapping",
+   "url": "https://jobs.lever.co/field-ai/9524c7c2-8be2-4463-afe3-7c1c60f7e6f2"
+  },
+  "workday:bah:R0249306": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Booz Allen",
+   "title": "Agentic AI Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Agentic-AI-Engineer_R0249306"
+  },
+  "workday:bah:R0251443": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Booz Allen",
+   "title": "Data Scientist",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/OFallon-IL/Data-Scientist_R0251443-1"
+  },
+  "workday:usc:REQ20178874": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "University of Southern California",
+   "title": "Associate Data Scientist",
+   "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Associate-Data-Scientist_REQ20178874"
+  },
+  "workday:nvidia:JR2027579": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NVIDIA",
+   "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579"
+  },
+  "workday:cboe:R-4582": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Cboe",
+   "title": "Associate Software Engineer, Web",
+   "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4582-2"
+  },
+  "workday:vizient:35387R": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Vizient",
+   "title": "Associate Software Engineer",
+   "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1"
+  },
+  "simplify:new-grad:9dfe7746-ba68-48c6-8d73-9a3e54ea661f": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "General Dynamics Mission Systems",
+   "title": "Embedded Software Engineer Entry Level",
+   "url": "https://careers-gdms.icims.com/jobs/75161/job?mobile=true&needsRedirect=false"
+  },
+  "simplify:new-grad:ad4ca44e-474d-4210-b8d6-7e8d58de9313": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Micron Technology",
+   "title": "CAD Engineer New Grad",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---CAD-Engineer_JR114754"
+  },
+  "simplify:new-grad:5fa985ab-b82f-4cca-8af3-e36ba708d49b": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Akima",
+   "title": "Associate Software Programmer",
+   "url": "https://careers.akima.com/jobs/26142?icims=1"
+  },
+  "simplify:new-grad:1945c4fb-7c66-4e18-8f44-a04eebc1742f": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "TikTok",
+   "title": "Research Scientist New Grad - Conversational AI",
+   "url": "https://lifeattiktok.com/search/7670685496821713205"
+  },
+  "simplify:new-grad:9f92b24f-ac56-4f00-9aa8-355eb21841bd": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - Conversational AI",
+   "url": "https://lifeattiktok.com/search/7670685495206857013"
+  },
+  "simplify:new-grad:fb6da2a2-3bc3-441e-8157-8b01a3021a05": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Circle Logistics",
+   "title": "Entry Level Data Engineer",
+   "url": "https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696"
+  },
+  "simplify:new-grad:76cdd4d4-8a4a-4878-b59e-b2a723a9d17a": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NVIDIA",
+   "title": "Hardware Design Validation Engineer New Grad - Memory Subsystem",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901"
+  },
+  "simplify:new-grad:33626190-3e86-477d-9c1e-ca3cbba8ee31": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "LSEG",
+   "title": "Engineering Graduate Programme",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Norwell-Massachusetts/Engineering-Graduate-Programme--Norwell-_R0123734"
+  },
+  "simplify:new-grad:55d3dd4c-a153-4f94-9eed-f115d0face66": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Helios WorldWide",
+   "title": "Junior Creative Engineer",
+   "url": "https://heliosww.applytojob.com/apply/rnBU1p1XkZ/Junior-Creative-Engineer"
+  },
+  "simplify:new-grad:6bdfd3bb-ca26-48aa-9237-cfcf4c1d5315": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "GlobalFoundries",
+   "title": "Design Manual Publishing & Ground Rule Validation Engineer New Grad",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Design-Manual-Publishing---Ground-Rule-Validation-Engineer--2027-New-College-Graduate-_JR-2604294"
+  },
+  "simplify:new-grad:4badb0b9-0e92-4dab-98dc-1d7afc1476a3": {
+   "first_seen": "2026-10-10T00:55:42+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "GlobalFoundries",
+   "title": "Software Engineer New Grad",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100"
+  },
+  "lever:perrknight:b15ed1e0-a7f1-444a-8130-6047c4cbcf44": {
+   "first_seen": "2026-10-10T01:49:34+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Perr&Knight",
+   "title": "Associate Programmer",
+   "url": "https://jobs.lever.co/perrknight/b15ed1e0-a7f1-444a-8130-6047c4cbcf44"
+  },
+  "workday:nvidia:JR2027431": {
+   "first_seen": "2026-10-10T01:49:34+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NVIDIA",
+   "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
+  },
+  "workday:amgen:R-257589": {
+   "first_seen": "2026-10-10T01:49:34+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Amgen",
+   "title": "Data Scientist",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Data-Scientist_R-257589"
+  },
+  "workday:xcelenergy:JR116914": {
+   "first_seen": "2026-10-10T01:49:34+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Xcel Energy",
+   "title": "Associate Data Scientist",
+   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2"
+  },
+  "simplify:new-grad:82fb089b-e0cb-414d-9953-9f5d35538486": {
+   "first_seen": "2026-10-10T01:49:34+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NVIDIA",
+   "title": "C++ Software Engineer New Grad - Infrastructure Tools",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
+  },
+  "simplify:new-grad:5011b571-fd51-4f1a-903a-43b3328e3cff": {
+   "first_seen": "2026-10-10T01:49:34+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "NVIDIA",
+   "title": "ASIC Clocks Verification Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579"
+  },
+  "workday:analogdevices:R265286": {
+   "first_seen": "2026-10-10T08:41:53+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Analog Devices",
+   "title": "Associate Digital Design Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286"
+  },
+  "workday:centricsoftware:JR393": {
+   "first_seen": "2026-10-10T08:41:53+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Centric Software",
+   "title": "Data Scientist Consultant",
+   "url": "https://centricsoftware.wd501.myworkdayjobs.com/Centric/job/Campbell-CA/Senior-Data-Scientist---Consultant_JR393"
+  },
+  "amazon:amazon:10575307": {
+   "first_seen": "2026-10-10T08:41:53+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Amazon.com Services LLC",
+   "title": "Software Development Engineer II, AWS SageMaker AI Training Job",
+   "url": "https://www.amazon.jobs/en/jobs/10575307/software-development-engineer-ii-aws-sagemaker-ai-training-job"
+  },
+  "workday:gartner:113311": {
+   "first_seen": "2026-10-10T15:54:26+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "Gartner",
+   "title": "Associate Data Scientist - Spring 2027 Master's level graduates",
+   "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311"
+  },
+  "workday:shi:JR3883": {
+   "first_seen": "2026-10-10T15:54:26+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "SHI International",
+   "title": "Associate Systems Engineer - IDCS",
+   "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/Associate-Systems-Engineer---IDCS_JR3883"
+  },
+  "simplify:new-grad:4f1c3a3a-978c-456b-855b-50eaf8efdb9e": {
+   "first_seen": "2026-10-10T15:54:26+00:00",
+   "last_seen": "2026-10-10T20:11:32+00:00",
+   "company": "L3Harris Technologies",
+   "title": "Associate Systems Engineer",
+   "url": "https://jobs.l3harris.com/job/Plano-Associate,-Systems-Engineering-TX-75074/1437945300/?ats=successfactors"
+  }
+ }
+}
