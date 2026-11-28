@@ -1,0 +1,2216 @@
+{
+ "listings_considered": 2826,
+ "greenhouse": {
+  "newsbreak": "NewsBreak",
+  "transmarketgroup": "TransMarket Group",
+  "chicagotradingcampus": "Chicago Trading Company",
+  "ctccampusboard": "Chicago Trading Company",
+  "muonspace": "Muon Space",
+  "freeformfuturecorp": "Freeform",
+  "drweng": "DRW",
+  "enigmaio": "Enigma",
+  "dvtrading": "DV Trading",
+  "generalmatter": "General Matter",
+  "applovin": "AppLovin",
+  "spacex": "SpaceX",
+  "relativity": "Relativity Space",
+  "andurilindustries": "Anduril",
+  "trueanomalyinc": "True Anomaly",
+  "mw-tech-grad": "Marshall Wace",
+  "bridgewater89": "Bridgewater Associates",
+  "gingerlabsinc": "Notability",
+  "planetscale": "PlanetScale",
+  "dataiku": "Dataiku",
+  "synack": "Synack",
+  "intersystems": "InterSystems",
+  "xairatherapeutics": "Xaira Therapeutics",
+  "innodatainc": "Innodata",
+  "faradayfuture": "Faraday Future",
+  "neuralink": "Neuralink",
+  "lgelectronics": "LG Electronics",
+  "opentable": "OpenTable",
+  "accenturefederalservices": "Accenture",
+  "asteralabs": "Astera Labs",
+  "doordashcanada": "DoorDash",
+  "doordashusa": "DoorDash",
+  "scaleai": "Scale AI",
+  "idmeuniversityrecruiting": "ID.me",
+  "trace3": "Trace3",
+  "bertramcapitalmanagement": "Bertram Capital Management",
+  "evolver": "Evolver",
+  "garnerhealth": "Garner Health",
+  "chaosindustries": "CHAOS Industries",
+  "singlestore": "SingleStore",
+  "fosphamarketing": "Fospha",
+  "blenheimchalcot": "Blenheim Chalcot",
+  "headlandstechnologiesllc": "Headlands Tech Holdings",
+  "freedomconsulting": "Freedom Technology Solutions Group",
+  "perpay": "Perpay",
+  "flowtraders": "Flow Traders",
+  "astranis": "Astranis",
+  "authenticinsurance": "Authentic",
+  "ziprecruiter": "ZipRecruiter",
+  "voloridgeinvestmentmanagement": "Voloridge",
+  "wpp": "WPP",
+  "claudecorps": "Anthropic",
+  "botauto": "Bot Auto",
+  "apptronik": "Apptronik",
+  "xpengmotors": "XPENG Motors",
+  "nimblerobotics": "Nimble Robotics",
+  "k2spacecorporation": "K2 Space",
+  "kikoff": "Kikoff",
+  "constantcontact": "Constant Contact",
+  "idme": "ID.me",
+  "asteraearlycareer2027": "Astera Labs",
+  "machindustries": "Mach Industries",
+  "impact": "impact.com",
+  "purestorage": "Pure Storage",
+  "goodfire": "Goodfire",
+  "grahamcapitalmanagement": "Graham Capital Management",
+  "systemstechnologyresearch": "STR",
+  "duolingounirecruitment": "Duolingo",
+  "datacor": "Datacor",
+  "figureai": "Figure",
+  "clear": "CLEAR",
+  "sirenopt": "SirenOpt",
+  "affirm": "Affirm",
+  "gravitonresearchcapital": "Graviton",
+  "schonfeld": "Schonfeld",
+  "graphcore": "Graphcore",
+  "icapitalnetwork": "iCapital Network",
+  "avride": "Avride",
+  "twitch": "Twitch",
+  "canonical": "Canonical",
+  "harborglobal": "Harbor",
+  "appian": "Appian",
+  "capitalontap": "Capital on Tap",
+  "addepar1": "Addepar",
+  "harbingermotors": "Harbinger Motors",
+  "torcrobotics": "Torc Robotics",
+  "rocketlab": "Rocket Lab Corporation",
+  "charterup": "CharterUP",
+  "verkada": "Verkada",
+  "akunacapitaloci": "Akuna Capital",
+  "hearst": "Hearst",
+  "textnowinc": "TextNow",
+  "graphcore-early-careers": "Graphcore",
+  "humaninterestswe1": "Human Interest",
+  "atomicobject": "Atomic Object",
+  "rendezvousrobotics": "Rendezvous Robotics",
+  "star-catcher": "Star Catcher",
+  "castelioncorporation": "Castelion",
+  "quantiq": "Quantiq",
+  "sitimecorporation": "SiTime",
+  "astronicscorporation": "Astronics",
+  "quberesearchandtechnologies": "Qube Research & Technologies",
+  "barkleyokrp": "BarkleyOKRP",
+  "missiononemedia": "MissionOne Media",
+  "voyagertechnologiesinc": "Voyager Technologies",
+  "trelliswaretechnologies-newgrads": "TrellisWare Technologies",
+  "xai": "xAI",
+  "networkbio": "Network Bio",
+  "kairospower": "Kairos Power",
+  "moxxidigital": "Moxxi Digital",
+  "getbuilt": "Built Technologies",
+  "nuancelabs": "Nuance Labs",
+  "undercontrolroboticsinc": "Noble Machines",
+  "superapp": "SuperApp",
+  "starmountaincapital": "Star Mountain Capital",
+  "orbisoperations": "Orbis Operations",
+  "deliveroo": "Deliveroo",
+  "truveta": "Truveta",
+  "orennia": "Orennia",
+  "rotheramarketsllc": "Rothera",
+  "vestwell": "Vestwell",
+  "lovelytics": "Lovelytics",
+  "imbueunlisted": "Imbue",
+  "ultimagenomics": "Ultima Genomics",
+  "betterhelpcom": "BetterHelp",
+  "thebrattlegroup": "The Brattle Group",
+  "pendartechnologies": "Pendar Technologies",
+  "hp": "HP Inc.",
+  "spacekinetic": "Space Kinetic",
+  "selffinancial": "Self Financial",
+  "vast": "VAST",
+  "eunetworks": "euNetworks",
+  "sharkninjaoperatingllc": "SharkNinja",
+  "criticalmass": "Critical Mass",
+  "emergingtalent": "Maven Securities",
+  "avante": "Avante",
+  "betatechnologiesinc": "Beta Technologies",
+  "zone5technologies": "Zone 5 Technologies",
+  "cmt": "Cambridge Mobile Telematics",
+  "integratedbiosciencesinc": "Integrated Biosciences",
+  "mcmaster-carr-systems": "McMaster-Carr",
+  "edmentum": "edmentum",
+  "absolicsinc": "Absolics",
+  "axon": "Axon",
+  "woolpert": "Woolpert",
+  "virtu": "Virtu Financial",
+  "minitab": "Minitab",
+  "sonypicturesimageworks": "Sony Pictures Imageworks",
+  "atoms": "Atoms",
+  "cssmerge": "Atoms",
+  "nerostechnologies": "Neros Technologies",
+  "mavensecuritiesholdingltd": "Maven Securities",
+  "openeye": "OpenEye",
+  "vertexservicepartners": "Vertex Service Partners",
+  "furtherearlycareer": "Further",
+  "boomilp": "Boomi",
+  "vailexa": "Vailexa",
+  "koddi": "Koddi",
+  "tenstorrent": "Tenstorrent",
+  "dmcengineering_campus": "DMC Engineering",
+  "lilasciences": "Lila Sciences",
+  "intercom": "Fin",
+  "recidiviz": "Recidiviz",
+  "artefact": "Artefact",
+  "wheely": "Wheely"
+ },
+ "ashby": {
+  "spaitial": "SpAItial",
+  "dome-systems-inc": "Dome Systems Inc",
+  "oligo": "Oligo Space",
+  "lambda": "Lambda",
+  "fs-studio": "FS Studio",
+  "emerald-ai": "Emerald AI",
+  "solace": "Solace Health",
+  "FSH": "FSH Technologies",
+  "nova-talent": "Nova Talent",
+  "lilt-production": "Lilt",
+  "composio": "Composio",
+  "applied": "Applied Intuition",
+  "notion": "Notion",
+  "ambral": "Ambral",
+  "koahlabs": "Koah",
+  "normalcomputing": "Normal Computing",
+  "ellipsislabs": "Ellipsis Labs",
+  "hooglee": "Hooglee",
+  "sunday": "Sunday Robotics",
+  "cerebras": "Cerebras",
+  "voleon": "The Voleon Group",
+  "embedding-vc": "Embedding VC",
+  "idler": "Idler",
+  "iambic-therapeutics": "Iambic Therapeutics",
+  "lendable": "Lendable",
+  "cogent-security": "Cogent Security",
+  "whatnot": "WhatNot",
+  "prelim": "Prelim",
+  "Sierra": "Sierra",
+  "tracelabs": "Trace Labs",
+  "unlimitedindustries": "Unlimited",
+  "cobot": "Collaborative Robotics",
+  "gradientrobotics": "Gradient Robotics",
+  "makai-labs": "Makai Labs",
+  "metaview": "Metaview",
+  "dyna-robotics": "Dyna Robotics",
+  "voyant-photonics": "Voyant Photonics",
+  "humanoid": "Humanoid",
+  "openai": "OpenAI",
+  "cheiron": "Cheiron",
+  "quantum": "Quantum",
+  "meow": "Meow",
+  "collinear-ai": "Collinear AI",
+  "Commure": "Commure",
+  "qumulo": "Qumulo",
+  "sim": "Sim",
+  "aescape": "Aescape",
+  "quora": "Quora",
+  "quantcast": "Quantcast",
+  "morse-micro": "Morse Micro",
+  "evenup": "EvenUp",
+  "lucidcomputing": "Lucid Computing",
+  "mach9": "Mach9",
+  "1x": "1X",
+  "standardsubsea": "Standard Subsea",
+  "fortell": "Fortell",
+  "aurora-operations-inc": "Aurora Innovation",
+  "foundationhealthcareers": "Foundation Health",
+  "rhoda-ai": "Rhoda AI",
+  "Watershed": "Watershed",
+  "spruceid": "SpruceID",
+  "chalk": "Chalk",
+  "aurelian": "Aurelian",
+  "bobyard": "Bobyard",
+  "ntt-data-aivista": "NTT DATA AIVista",
+  "blissway": "Blissway",
+  "periodic-labs": "Periodic Labs",
+  "teya": "Teya",
+  "trading212": "Trading212",
+  "brainco": "Brain Co.",
+  "havocai": "HavocAI",
+  "bild-ai": "Bild AI",
+  "base-power": "Base Power",
+  "jampack-ai": "Jampack AI",
+  "ema": "Ema",
+  "focused": "Focused",
+  "fuel-cycle": "Fuel Cycle",
+  "sola": "Sola",
+  "madhive": "Madhive",
+  "sampura": "Sampura Research",
+  "swarmaero": "Swarm Aero",
+  "fab2": "Fab2",
+  "inworld-ai": "Inworld AI",
+  "resurgent-industries": "Resurgent Industries",
+  "generate": "Generate Capital",
+  "elveo": "Elveo",
+  "viggle": "Viggle AI",
+  "hyphenate": "Hyphenate",
+  "old-mission-capital": "Old Mission",
+  "relling": "Relling",
+  "goaly": "Goaly",
+  "engramme": "Engramme",
+  "options-it": "Options Technology",
+  "careers.mural": "Mural",
+  "pelico": "Pelico",
+  "veritus": "Veritus",
+  "bagsfm": "Bags",
+  "sela": "Sela AI",
+  "within.ai": "Within",
+  "fellowai": "Fellow",
+  "nexus-intelligence": "Nexus Intelligence",
+  "takt": "Takt",
+  "pureapp": "Pure",
+  "osmo": "Osmo",
+  "nexttoken": "NextToken",
+  "isembard": "Isembard",
+  "discernis": "Discernis",
+  "pocket": "Open Vision Engineering",
+  "plsn": "Polished Snow",
+  "resonance": "Resonance",
+  "endeavorai": "endeavorai.com",
+  "nooks": "Nooks",
+  "didero": "Didero",
+  "horizon3ai": "Horizon3.ai",
+  "orbital": "Orbital",
+  "perplexity": "Perplexity AI",
+  "artificialanalysis": "Artificial Analysis",
+  "netholabs": "Netholabs",
+  "generalist": "Generalist",
+  "verne": "Verne Robotics",
+  "ande": "Ande",
+  "generaltranslation": "General Translation",
+  "kalshi": "Kalshi",
+  "barnes": "Barnes & Thornburg",
+  "shield": "Shield AI",
+  "stratos": "STRATOS Technologies",
+  "sieve": "Sieve",
+  "handshake": "Handshake",
+  "NorthwoodSpace": "Northwood Space",
+  "liquid-ai": "Liquid AI",
+  "zetta2": "ZettaSquared",
+  "pragmatike": "Pragmatike",
+  "triumph-arcade": "Triumph Labs",
+  "zuru": "Zuru",
+  "instil": "Instil Software Ltd",
+  "legal-500": "Legal 500",
+  "silnahealth.com": "Silna Health",
+  "kira": "Kira Learning",
+  "litmushiring": "Litmus",
+  "ami": "AMI Labs",
+  "keplar": "Keplar",
+  "multiplyai": "Multiply",
+  "starbridge": "Starbridge",
+  "secureframe": "Secureframe",
+  "webai": "WebAI",
+  "genesis": "Genesis AI",
+  "parallel": "Parallel Web Systems",
+  "plugmotors": "Plug Technologies",
+  "ayosemi": "Ayo Semiconductor",
+  "scout-ai": "Scout AI",
+  "zeit-ai": "Zeit AI (YC S24)",
+  "speechmatics": "Speechmatics",
+  "jerry.ai": "Jerry",
+  "algo1": "algo1"
+ },
+ "lever": {
+  "palantir": "Palantir",
+  "upscale-ai": "Upscale AI",
+  "veeva": "Veeva Systems",
+  "belvederetrading": "Belvedere Trading",
+  "plus-2": "PlusAI",
+  "datalabusa": "Datalab USA",
+  "sprymethods": "Spry Methods",
+  "glsllc": "Global Lending Services",
+  "crestoperations": "Crest Industries",
+  "wisdomtree": "WisdomTree",
+  "humble-robotics": "Humble Robotics",
+  "field-ai": "Field AI",
+  "wintermute-trading": "Wintermute",
+  "vitana-pediatric": "Vitana Pediatric & Orthodontic Partners",
+  "kitware": "Kitware",
+  "sep": "SEP",
+  "agile-defense": "Agile Defense",
+  "erg": "Eastern Research Group",
+  "thinkahead": "AHEAD",
+  "schmidt-entities": "Schmidt Sciences",
+  "ion": "ION Group",
+  "perrknight": "Perr&Knight",
+  "brillio-2": "Brillio",
+  "rws": "RWS",
+  "mendix": "Mendix",
+  "octoenergy": "Octopus Energy",
+  "algorex": "N1 Health",
+  "hive": "Hive",
+  "worldscape-technology": "Worldscape Technology",
+  "mytos": "Mytos",
+  "regal.ai": "Regal",
+  "jupiterintel": "Jupiter Intelligence",
+  "economicmodeling": "Lightcast",
+  "pibenchmark": "PredictX",
+  "Farcast": "Farcast",
+  "rainfocus": "RainFocus",
+  "nuvacore": "NUVACORE",
+  "lumaril-corporation": "Lumaril",
+  "nio-usa": "Nio",
+  "project-healthy-minds": "Project Healthy Minds",
+  "subsense": "Subsense",
+  "biointellisense": "Biointellisense",
+  "verisinsights": "Veris Insights",
+  "CesiumAstro": "CesiumAstro",
+  "esrtreit": "Empire State Realty Trust",
+  "arrivelogistics": "Arrive Logistics",
+  "z1tech": "Z1 Tech",
+  "fantom-corporation": "Fantom",
+  "weloglobal": "Welo Global",
+  "bis": "BIS Safety Software",
+  "zoox": "Zoox",
+  "aeva": "Aeva",
+  "rosaiclabs": "RosaicLabs",
+  "syntronic": "Syntronic",
+  "servicerocket": "ServiceRocket",
+  "bluesight": "Bluesight"
+ },
+ "workday": [
+  {
+   "host": "3m.wd1.myworkdayjobs.com",
+   "tenant": "3m",
+   "site": "Search",
+   "company": "3M"
+  },
+  {
+   "host": "abbott.wd5.myworkdayjobs.com",
+   "tenant": "abbott",
+   "site": "abbottcareers",
+   "company": "Abbott"
+  },
+  {
+   "host": "abbott.wd5.myworkdayjobs.com",
+   "tenant": "abbott",
+   "site": "abbottcareers2",
+   "company": "Abbott"
+  },
+  {
+   "host": "abglobal.wd1.myworkdayjobs.com",
+   "tenant": "abglobal",
+   "site": "alliancebernsteincareers",
+   "company": "AllianceBernstein"
+  },
+  {
+   "host": "accenture.wd103.myworkdayjobs.com",
+   "tenant": "accenture",
+   "site": "AccentureCareers",
+   "company": "Accenture"
+  },
+  {
+   "host": "accuray.wd5.myworkdayjobs.com",
+   "tenant": "accuray",
+   "site": "external",
+   "company": "Accuray"
+  },
+  {
+   "host": "acxiomllc.wd5.myworkdayjobs.com",
+   "tenant": "acxiomllc",
+   "site": "AcxiomUSA",
+   "company": "Acxiom"
+  },
+  {
+   "host": "adobe.wd5.myworkdayjobs.com",
+   "tenant": "adobe",
+   "site": "external_experienced",
+   "company": "Adobe"
+  },
+  {
+   "host": "advisorgroup.wd1.myworkdayjobs.com",
+   "tenant": "advisorgroup",
+   "site": "advisor_career_site",
+   "company": "Osaic"
+  },
+  {
+   "host": "aep.wd1.myworkdayjobs.com",
+   "tenant": "aep",
+   "site": "AEPCareerSite",
+   "company": "American Electric Power"
+  },
+  {
+   "host": "aero.wd5.myworkdayjobs.com",
+   "tenant": "aero",
+   "site": "external",
+   "company": "The Aerospace Corporation"
+  },
+  {
+   "host": "allegion.wd5.myworkdayjobs.com",
+   "tenant": "allegion",
+   "site": "careers",
+   "company": "Allegion"
+  },
+  {
+   "host": "allegromicro.wd5.myworkdayjobs.com",
+   "tenant": "allegromicro",
+   "site": "allegrocareers",
+   "company": "Allegro MicroSystems"
+  },
+  {
+   "host": "amat.wd1.myworkdayjobs.com",
+   "tenant": "amat",
+   "site": "External",
+   "company": "Applied Materials"
+  },
+  {
+   "host": "amgen.wd1.myworkdayjobs.com",
+   "tenant": "amgen",
+   "site": "careers",
+   "company": "Amgen"
+  },
+  {
+   "host": "analogdevices.wd1.myworkdayjobs.com",
+   "tenant": "analogdevices",
+   "site": "External",
+   "company": "Analog Devices"
+  },
+  {
+   "host": "aoins.wd5.myworkdayjobs.com",
+   "tenant": "aoins",
+   "site": "AutoOwners",
+   "company": "Auto-Owners Insurance"
+  },
+  {
+   "host": "aptiv.wd5.myworkdayjobs.com",
+   "tenant": "aptiv",
+   "site": "aptiv_careers",
+   "company": "Aptiv"
+  },
+  {
+   "host": "argonne.wd1.myworkdayjobs.com",
+   "tenant": "argonne",
+   "site": "Argonne_Careers",
+   "company": "Argonne National Laboratory"
+  },
+  {
+   "host": "asml.wd3.myworkdayjobs.com",
+   "tenant": "asml",
+   "site": "asmlext1",
+   "company": "ASML"
+  },
+  {
+   "host": "assetmark.wd5.myworkdayjobs.com",
+   "tenant": "assetmark",
+   "site": "AssetMark_Careers",
+   "company": "AssetMark"
+  },
+  {
+   "host": "avav.wd1.myworkdayjobs.com",
+   "tenant": "avav",
+   "site": "avav",
+   "company": "AeroVironment"
+  },
+  {
+   "host": "aveva.wd3.myworkdayjobs.com",
+   "tenant": "aveva",
+   "site": "AVEVA_careers",
+   "company": "AVEVA"
+  },
+  {
+   "host": "avisbudget.wd1.myworkdayjobs.com",
+   "tenant": "avisbudget",
+   "site": "abg_careers",
+   "company": "Avis Budget Group"
+  },
+  {
+   "host": "axcelis.wd1.myworkdayjobs.com",
+   "tenant": "axcelis",
+   "site": "axcelis",
+   "company": "Axcelis Technologies"
+  },
+  {
+   "host": "axos.wd5.myworkdayjobs.com",
+   "tenant": "axos",
+   "site": "Axos",
+   "company": "Axos Bank"
+  },
+  {
+   "host": "badgermeter.wd5.myworkdayjobs.com",
+   "tenant": "badgermeter",
+   "site": "US_CareerSite",
+   "company": "Badger Meter"
+  },
+  {
+   "host": "bah.wd1.myworkdayjobs.com",
+   "tenant": "bah",
+   "site": "Confidential",
+   "company": "Booz Allen"
+  },
+  {
+   "host": "bah.wd1.myworkdayjobs.com",
+   "tenant": "bah",
+   "site": "bah_jobs",
+   "company": "Booz Allen"
+  },
+  {
+   "host": "baird.wd1.myworkdayjobs.com",
+   "tenant": "baird",
+   "site": "careers",
+   "company": "Baird"
+  },
+  {
+   "host": "barclays.wd3.myworkdayjobs.com",
+   "tenant": "barclays",
+   "site": "External_Career_Site_Barclays",
+   "company": "Barclays"
+  },
+  {
+   "host": "basspro.wd1.myworkdayjobs.com",
+   "tenant": "basspro",
+   "site": "careers",
+   "company": "Bass Pro Shops"
+  },
+  {
+   "host": "bbinsurance.wd1.myworkdayjobs.com",
+   "tenant": "bbinsurance",
+   "site": "careers",
+   "company": "Brown & Brown Insurance"
+  },
+  {
+   "host": "bcbsma.wd5.myworkdayjobs.com",
+   "tenant": "bcbsma",
+   "site": "bcbsma",
+   "company": "Blue Cross Blue Shield of Massachusetts"
+  },
+  {
+   "host": "blackstone.wd1.myworkdayjobs.com",
+   "tenant": "blackstone",
+   "site": "Blackstone_Campus_Careers",
+   "company": "Blackstone"
+  },
+  {
+   "host": "blueorigin.wd5.myworkdayjobs.com",
+   "tenant": "blueorigin",
+   "site": "blueorigin",
+   "company": "Blue Origin"
+  },
+  {
+   "host": "bmo.wd3.myworkdayjobs.com",
+   "tenant": "bmo",
+   "site": "External",
+   "company": "Bank of Montreal"
+  },
+  {
+   "host": "boeing.wd1.myworkdayjobs.com",
+   "tenant": "boeing",
+   "site": "external_subsidiary",
+   "company": "Boeing"
+  },
+  {
+   "host": "boeing.wd1.myworkdayjobs.com",
+   "tenant": "boeing",
+   "site": "EXTERNAL_CAREERS",
+   "company": "Boeing"
+  },
+  {
+   "host": "boydcorp.wd12.myworkdayjobs.com",
+   "tenant": "boydcorp",
+   "site": "Boyd_Careers",
+   "company": "Boyd"
+  },
+  {
+   "host": "bracco.wd103.myworkdayjobs.com",
+   "tenant": "bracco",
+   "site": "braccocareers",
+   "company": "Bracco"
+  },
+  {
+   "host": "brambles.wd5.myworkdayjobs.com",
+   "tenant": "brambles",
+   "site": "Brambles_Careers",
+   "company": "CHEP"
+  },
+  {
+   "host": "bristolmyerssquibb.wd5.myworkdayjobs.com",
+   "tenant": "bristolmyerssquibb",
+   "site": "bms",
+   "company": "Bristol Myers Squibb"
+  },
+  {
+   "host": "broadcom.wd1.myworkdayjobs.com",
+   "tenant": "broadcom",
+   "site": "external_career",
+   "company": "Broadcom"
+  },
+  {
+   "host": "broadridge.wd5.myworkdayjobs.com",
+   "tenant": "broadridge",
+   "site": "careers",
+   "company": "Broadridge"
+  },
+  {
+   "host": "caci.wd1.myworkdayjobs.com",
+   "tenant": "caci",
+   "site": "external",
+   "company": "CACI"
+  },
+  {
+   "host": "cadence.wd1.myworkdayjobs.com",
+   "tenant": "cadence",
+   "site": "External_Careers",
+   "company": "Cadence Design Systems"
+  },
+  {
+   "host": "cadence.wd1.myworkdayjobs.com",
+   "tenant": "cadence",
+   "site": "University_Talent_NCG",
+   "company": "Cadence Design Systems"
+  },
+  {
+   "host": "cadence.wd1.myworkdayjobs.com",
+   "tenant": "cadence",
+   "site": "University_Talent",
+   "company": "Cadence Design Systems"
+  },
+  {
+   "host": "cadence.wd1.myworkdayjobs.com",
+   "tenant": "cadence",
+   "site": "Univ_Careers",
+   "company": "Cadence Design Systems"
+  },
+  {
+   "host": "cae.wd3.myworkdayjobs.com",
+   "tenant": "cae",
+   "site": "career",
+   "company": "CAE"
+  },
+  {
+   "host": "capitalone.wd12.myworkdayjobs.com",
+   "tenant": "capitalone",
+   "site": "Capital_One",
+   "company": "Capital One"
+  },
+  {
+   "host": "carmax.wd1.myworkdayjobs.com",
+   "tenant": "carmax",
+   "site": "External",
+   "company": "CarMax"
+  },
+  {
+   "host": "cccis.wd1.myworkdayjobs.com",
+   "tenant": "cccis",
+   "site": "broadbean_external",
+   "company": "CCC Intelligent Solutions"
+  },
+  {
+   "host": "cdk.wd1.myworkdayjobs.com",
+   "tenant": "cdk",
+   "site": "CDK",
+   "company": "CDK Global"
+  },
+  {
+   "host": "cdpq.wd10.myworkdayjobs.com",
+   "tenant": "cdpq",
+   "site": "CDPQ",
+   "company": "CDPQ"
+  },
+  {
+   "host": "cgg.wd103.myworkdayjobs.com",
+   "tenant": "cgg",
+   "site": "viridiencareers",
+   "company": "Viridien"
+  },
+  {
+   "host": "ciena.wd5.myworkdayjobs.com",
+   "tenant": "ciena",
+   "site": "Careers",
+   "company": "Ciena"
+  },
+  {
+   "host": "cisco.wd5.myworkdayjobs.com",
+   "tenant": "cisco",
+   "site": "cisco_careers",
+   "company": "Cisco"
+  },
+  {
+   "host": "cisive.wd108.myworkdayjobs.com",
+   "tenant": "cisive",
+   "site": "Cisive",
+   "company": "Cisive"
+  },
+  {
+   "host": "citi.wd5.myworkdayjobs.com",
+   "tenant": "citi",
+   "site": "2",
+   "company": "Citi"
+  },
+  {
+   "host": "clearwateranalytics.wd1.myworkdayjobs.com",
+   "tenant": "clearwateranalytics",
+   "site": "Clearwater_Analytics_Careers",
+   "company": "Clearwater Analytics"
+  },
+  {
+   "host": "clemson.wd12.myworkdayjobs.com",
+   "tenant": "clemson",
+   "site": "Clemson_Careers",
+   "company": "Clemson University"
+  },
+  {
+   "host": "collectorsuniverse.wd1.myworkdayjobs.com",
+   "tenant": "collectorsuniverse",
+   "site": "collectors",
+   "company": "Collectors"
+  },
+  {
+   "host": "comscore.wd5.myworkdayjobs.com",
+   "tenant": "comscore",
+   "site": "External",
+   "company": "Comscore"
+  },
+  {
+   "host": "conehealth.wd12.myworkdayjobs.com",
+   "tenant": "conehealth",
+   "site": "cone_health-careers",
+   "company": "Cone Health"
+  },
+  {
+   "host": "connect.wd1.myworkdayjobs.com",
+   "tenant": "connect",
+   "site": "ztsystemscareers",
+   "company": "ZT Systems"
+  },
+  {
+   "host": "copart.wd12.myworkdayjobs.com",
+   "tenant": "copart",
+   "site": "copart",
+   "company": "Copart"
+  },
+  {
+   "host": "costar.wd1.myworkdayjobs.com",
+   "tenant": "costar",
+   "site": "CoStarCareers",
+   "company": "CoStar Group"
+  },
+  {
+   "host": "cranecompany.wd5.myworkdayjobs.com",
+   "tenant": "cranecompany",
+   "site": "Careers",
+   "company": "Crane Co."
+  },
+  {
+   "host": "crowe.wd12.myworkdayjobs.com",
+   "tenant": "crowe",
+   "site": "external_careers",
+   "company": "Crowe"
+  },
+  {
+   "host": "csiweb.wd1.myworkdayjobs.com",
+   "tenant": "csiweb",
+   "site": "CSI_Careers",
+   "company": "CSI"
+  },
+  {
+   "host": "cw.wd1.myworkdayjobs.com",
+   "tenant": "cw",
+   "site": "external",
+   "company": "Cushman & Wakefield"
+  },
+  {
+   "host": "danaher.wd1.myworkdayjobs.com",
+   "tenant": "danaher",
+   "site": "danaherjobs",
+   "company": "Danaher"
+  },
+  {
+   "host": "davita.wd1.myworkdayjobs.com",
+   "tenant": "davita",
+   "site": "DKC_External",
+   "company": "DaVita"
+  },
+  {
+   "host": "dentsuaegis.wd3.myworkdayjobs.com",
+   "tenant": "dentsuaegis",
+   "site": "DAN_GLOBAL",
+   "company": "Dentsu"
+  },
+  {
+   "host": "dimensional.wd5.myworkdayjobs.com",
+   "tenant": "dimensional",
+   "site": "dfa_careers",
+   "company": "Dimensional Fund Advisors"
+  },
+  {
+   "host": "dmainc.wd5.myworkdayjobs.com",
+   "tenant": "dmainc",
+   "site": "dma",
+   "company": "DuCharme, McMillen & Associates"
+  },
+  {
+   "host": "draftkings.wd1.myworkdayjobs.com",
+   "tenant": "draftkings",
+   "site": "Campus_Career_Portal",
+   "company": "DraftKings"
+  },
+  {
+   "host": "draftkings.wd1.myworkdayjobs.com",
+   "tenant": "draftkings",
+   "site": "Employee_Referral_Portal",
+   "company": "DraftKings"
+  },
+  {
+   "host": "draper.wd5.myworkdayjobs.com",
+   "tenant": "draper",
+   "site": "Draper_Careers",
+   "company": "Draper"
+  },
+  {
+   "host": "drivetime.wd1.myworkdayjobs.com",
+   "tenant": "drivetime",
+   "site": "DriveTime",
+   "company": "DriveTime"
+  },
+  {
+   "host": "dssmith.wd3.myworkdayjobs.com",
+   "tenant": "dssmith",
+   "site": "careers",
+   "company": "DS Smith"
+  },
+  {
+   "host": "dssmith.wd3.myworkdayjobs.com",
+   "tenant": "dssmith",
+   "site": "dss_internal",
+   "company": "DS Smith"
+  },
+  {
+   "host": "earlywarning.wd5.myworkdayjobs.com",
+   "tenant": "earlywarning",
+   "site": "earlywarningcareers",
+   "company": "Early Warning"
+  },
+  {
+   "host": "ebi.wd5.myworkdayjobs.com",
+   "tenant": "ebi",
+   "site": "ebicareers",
+   "company": "Ensign-Bickford Industries"
+  },
+  {
+   "host": "ebi.wd5.myworkdayjobs.com",
+   "tenant": "ebi",
+   "site": "ebadcareers",
+   "company": "Ensign-Bickford Aerospace & Defense Company"
+  },
+  {
+   "host": "eonnext.wd3.myworkdayjobs.com",
+   "tenant": "eonnext",
+   "site": "EON_Next_Careers",
+   "company": "E.ON Next"
+  },
+  {
+   "host": "equifax.wd5.myworkdayjobs.com",
+   "tenant": "equifax",
+   "site": "UR_External",
+   "company": "Equifax"
+  },
+  {
+   "host": "ercot.wd1.myworkdayjobs.com",
+   "tenant": "ercot",
+   "site": "ercot_careers",
+   "company": "Ercot"
+  },
+  {
+   "host": "europeantour.wd3.myworkdayjobs.com",
+   "tenant": "europeantour",
+   "site": "europeantour",
+   "company": "European Tour Group"
+  },
+  {
+   "host": "everestre.wd5.myworkdayjobs.com",
+   "tenant": "everestre",
+   "site": "careers",
+   "company": "Everest"
+  },
+  {
+   "host": "exelixis.wd1.myworkdayjobs.com",
+   "tenant": "exelixis",
+   "site": "exel",
+   "company": "Exelixis"
+  },
+  {
+   "host": "expedia.wd108.myworkdayjobs.com",
+   "tenant": "expedia",
+   "site": "private",
+   "company": "Expedia Group"
+  },
+  {
+   "host": "ferrovial.wd3.myworkdayjobs.com",
+   "tenant": "ferrovial",
+   "site": "ferrovial_career_site",
+   "company": "Ferrovial"
+  },
+  {
+   "host": "fis.wd5.myworkdayjobs.com",
+   "tenant": "fis",
+   "site": "searchjobs",
+   "company": "Fidelity National Information Services"
+  },
+  {
+   "host": "fiserv.wd5.myworkdayjobs.com",
+   "tenant": "fiserv",
+   "site": "ext",
+   "company": "Fiserv"
+  },
+  {
+   "host": "flexerasoftware.wd1.myworkdayjobs.com",
+   "tenant": "flexerasoftware",
+   "site": "FlexeraSoftware",
+   "company": "Flexera"
+  },
+  {
+   "host": "flextronics.wd1.myworkdayjobs.com",
+   "tenant": "flextronics",
+   "site": "Careers",
+   "company": "Flextronics International"
+  },
+  {
+   "host": "flir.wd1.myworkdayjobs.com",
+   "tenant": "flir",
+   "site": "flircareers",
+   "company": "Teledyne"
+  },
+  {
+   "host": "fmr.wd1.myworkdayjobs.com",
+   "tenant": "fmr",
+   "site": "targeted",
+   "company": "Fidelity Investments"
+  },
+  {
+   "host": "fnbcorp.wd501.myworkdayjobs.com",
+   "tenant": "fnbcorp",
+   "site": "FNBCORP",
+   "company": "First National Bank"
+  },
+  {
+   "host": "fortbendcountytx.wd5.myworkdayjobs.com",
+   "tenant": "fortbendcountytx",
+   "site": "externalcareers",
+   "company": "Fort Bend County"
+  },
+  {
+   "host": "gafsgi.wd5.myworkdayjobs.com",
+   "tenant": "gafsgi",
+   "site": "GAF_Careers",
+   "company": "GAF"
+  },
+  {
+   "host": "geaerospace.wd5.myworkdayjobs.com",
+   "tenant": "geaerospace",
+   "site": "ge_externalsite",
+   "company": "GE Aerospace"
+  },
+  {
+   "host": "gehc.wd5.myworkdayjobs.com",
+   "tenant": "gehc",
+   "site": "GEHC_ExternalSite",
+   "company": "GE Healthcare"
+  },
+  {
+   "host": "generac.wd5.myworkdayjobs.com",
+   "tenant": "generac",
+   "site": "external",
+   "company": "Generac"
+  },
+  {
+   "host": "generalmotors.wd5.myworkdayjobs.com",
+   "tenant": "generalmotors",
+   "site": "Careers_GM",
+   "company": "General Motors"
+  },
+  {
+   "host": "gentex.wd5.myworkdayjobs.com",
+   "tenant": "gentex",
+   "site": "Gentex",
+   "company": "Gentex"
+  },
+  {
+   "host": "gevernova.wd5.myworkdayjobs.com",
+   "tenant": "gevernova",
+   "site": "only_confidential_executive_recruiting",
+   "company": "GE Vernova"
+  },
+  {
+   "host": "gevernova.wd5.myworkdayjobs.com",
+   "tenant": "gevernova",
+   "site": "vernova_externalsite",
+   "company": "GE Vernova"
+  },
+  {
+   "host": "giro.wd10.myworkdayjobs.com",
+   "tenant": "giro",
+   "site": "GIRO",
+   "company": "GIRO"
+  },
+  {
+   "host": "globalfoundries.wd1.myworkdayjobs.com",
+   "tenant": "globalfoundries",
+   "site": "External",
+   "company": "GlobalFoundries"
+  },
+  {
+   "host": "globalhr.wd5.myworkdayjobs.com",
+   "tenant": "globalhr",
+   "site": "rec_rtx_ext_gateway",
+   "company": "RTX"
+  },
+  {
+   "host": "globalhr.wd5.myworkdayjobs.com",
+   "tenant": "globalhr",
+   "site": "Private_Posting_No_TMP",
+   "company": "RTX"
+  },
+  {
+   "host": "globusmedical.wd5.myworkdayjobs.com",
+   "tenant": "globusmedical",
+   "site": "GMED_Careers",
+   "company": "Globus Medical"
+  },
+  {
+   "host": "gobeacon.wd1.myworkdayjobs.com",
+   "tenant": "gobeacon",
+   "site": "beaconmobilitycareers",
+   "company": "Beacon Mobility"
+  },
+  {
+   "host": "gresearch.wd103.myworkdayjobs.com",
+   "tenant": "gresearch",
+   "site": "G-Research",
+   "company": "G-Research"
+  },
+  {
+   "host": "gsk.wd5.myworkdayjobs.com",
+   "tenant": "gsk",
+   "site": "GSKCareers",
+   "company": "GSK"
+  },
+  {
+   "host": "guidehouse.wd1.myworkdayjobs.com",
+   "tenant": "guidehouse",
+   "site": "external",
+   "company": "Guidehouse"
+  },
+  {
+   "host": "halma.wd3.myworkdayjobs.com",
+   "tenant": "halma",
+   "site": "Halma",
+   "company": "Halma"
+  },
+  {
+   "host": "hitachi.wd1.myworkdayjobs.com",
+   "tenant": "hitachi",
+   "site": "hitachi",
+   "company": "Hitachi"
+  },
+  {
+   "host": "hl.wd1.myworkdayjobs.com",
+   "tenant": "hl",
+   "site": "Campus",
+   "company": "Houlihan Lokey"
+  },
+  {
+   "host": "hntb.wd5.myworkdayjobs.com",
+   "tenant": "hntb",
+   "site": "hntb_careers",
+   "company": "HNTB"
+  },
+  {
+   "host": "hntb.wd5.myworkdayjobs.com",
+   "tenant": "hntb",
+   "site": "hntb_university_careers",
+   "company": "HNTB"
+  },
+  {
+   "host": "homedepot.wd5.myworkdayjobs.com",
+   "tenant": "homedepot",
+   "site": "careerdepot",
+   "company": "The Home Depot"
+  },
+  {
+   "host": "horizonmedia.wd1.myworkdayjobs.com",
+   "tenant": "horizonmedia",
+   "site": "CareerOpportunities",
+   "company": "Horizon media"
+  },
+  {
+   "host": "hp.wd5.myworkdayjobs.com",
+   "tenant": "hp",
+   "site": "EXTEU-AC-CareerSite",
+   "company": "Hewlett Packard"
+  },
+  {
+   "host": "hp.wd5.myworkdayjobs.com",
+   "tenant": "hp",
+   "site": "externalcareersite",
+   "company": "Hewlett Packard"
+  },
+  {
+   "host": "hpe.wd5.myworkdayjobs.com",
+   "tenant": "hpe",
+   "site": "acjobsite",
+   "company": "Hewlett Packard Enterprise"
+  },
+  {
+   "host": "hpe.wd5.myworkdayjobs.com",
+   "tenant": "hpe",
+   "site": "jobsathpe",
+   "company": "Hewlett Packard Enterprise"
+  },
+  {
+   "host": "hss.wd1.myworkdayjobs.com",
+   "tenant": "hss",
+   "site": "HSS_Careers",
+   "company": "Hospital for Special Surgery"
+  },
+  {
+   "host": "humana.wd5.myworkdayjobs.com",
+   "tenant": "humana",
+   "site": "humana_external_career_site",
+   "company": "Humana"
+  },
+  {
+   "host": "icf.wd5.myworkdayjobs.com",
+   "tenant": "icf",
+   "site": "icfexternal_career_site",
+   "company": "ICF International"
+  },
+  {
+   "host": "ilitch.wd5.myworkdayjobs.com",
+   "tenant": "ilitch",
+   "site": "detroit-tigers",
+   "company": "Detroit Tigers"
+  },
+  {
+   "host": "intel.wd1.myworkdayjobs.com",
+   "tenant": "intel",
+   "site": "external",
+   "company": "Intel"
+  },
+  {
+   "host": "interdigital.wd5.myworkdayjobs.com",
+   "tenant": "interdigital",
+   "site": "InterDigital_Career",
+   "company": "Interdigital"
+  },
+  {
+   "host": "interpublic.wd5.myworkdayjobs.com",
+   "tenant": "interpublic",
+   "site": "omc",
+   "company": "Omnicom Group"
+  },
+  {
+   "host": "invenergyllc.wd1.myworkdayjobs.com",
+   "tenant": "invenergyllc",
+   "site": "invenergycareers",
+   "company": "Invenergy"
+  },
+  {
+   "host": "invesco.wd1.myworkdayjobs.com",
+   "tenant": "invesco",
+   "site": "IVZ",
+   "company": "Invesco"
+  },
+  {
+   "host": "itw.wd5.myworkdayjobs.com",
+   "tenant": "itw",
+   "site": "external",
+   "company": "Illinois Tool Works"
+  },
+  {
+   "host": "jabil.wd5.myworkdayjobs.com",
+   "tenant": "jabil",
+   "site": "Jabil_Careers",
+   "company": "Jabil"
+  },
+  {
+   "host": "jdpa.wd501.myworkdayjobs.com",
+   "tenant": "jdpa",
+   "site": "JDPower",
+   "company": "J.D. Power"
+  },
+  {
+   "host": "kbr.wd5.myworkdayjobs.com",
+   "tenant": "kbr",
+   "site": "KBR_Careers",
+   "company": "KBR"
+  },
+  {
+   "host": "keybank.wd5.myworkdayjobs.com",
+   "tenant": "keybank",
+   "site": "External_Career_Site",
+   "company": "KeyBank"
+  },
+  {
+   "host": "kissusa.wd12.myworkdayjobs.com",
+   "tenant": "kissusa",
+   "site": "KISS_Careers_External",
+   "company": "Kiss Products"
+  },
+  {
+   "host": "kla.wd1.myworkdayjobs.com",
+   "tenant": "kla",
+   "site": "Search",
+   "company": "KLA"
+  },
+  {
+   "host": "kla.wd1.myworkdayjobs.com",
+   "tenant": "kla",
+   "site": "annarbor",
+   "company": "KLA"
+  },
+  {
+   "host": "kla.wd1.myworkdayjobs.com",
+   "tenant": "kla",
+   "site": "UR",
+   "company": "KLA"
+  },
+  {
+   "host": "kla.wd1.myworkdayjobs.com",
+   "tenant": "kla",
+   "site": "search",
+   "company": "KLA Corporation"
+  },
+  {
+   "host": "knitwellgroup.wd1.myworkdayjobs.com",
+   "tenant": "knitwellgroup",
+   "site": "US_Corporate_Jobs",
+   "company": "Loft"
+  },
+  {
+   "host": "ksb.wd3.myworkdayjobs.com",
+   "tenant": "ksb",
+   "site": "KSB_ExternalCareerSite",
+   "company": "KSB"
+  },
+  {
+   "host": "latticesemi.wd5.myworkdayjobs.com",
+   "tenant": "latticesemi",
+   "site": "latticesemiconductorscareers",
+   "company": "Lattice Semiconductor"
+  },
+  {
+   "host": "lbg.wd3.myworkdayjobs.com",
+   "tenant": "lbg",
+   "site": "LBG_Careers",
+   "company": "Lloyds Bank"
+  },
+  {
+   "host": "leidos.wd5.myworkdayjobs.com",
+   "tenant": "leidos",
+   "site": "External",
+   "company": "Leidos"
+  },
+  {
+   "host": "leonardocompany.wd3.myworkdayjobs.com",
+   "tenant": "leonardocompany",
+   "site": "LeonardoCareerSite",
+   "company": "Leonardo"
+  },
+  {
+   "host": "libertyglobal.wd3.myworkdayjobs.com",
+   "tenant": "libertyglobal",
+   "site": "Liberty_Global_Careers",
+   "company": "Liberty Global"
+  },
+  {
+   "host": "libertyglobal.wd3.myworkdayjobs.com",
+   "tenant": "libertyglobal",
+   "site": "Liberty_Global_Blume",
+   "company": "Liberty Blume"
+  },
+  {
+   "host": "lighting.wd3.myworkdayjobs.com",
+   "tenant": "lighting",
+   "site": "jobs-and-careers",
+   "company": "Signify"
+  },
+  {
+   "host": "lplfinancial.wd1.myworkdayjobs.com",
+   "tenant": "lplfinancial",
+   "site": "university",
+   "company": "LPL Financial Holdings"
+  },
+  {
+   "host": "lseg.wd3.myworkdayjobs.com",
+   "tenant": "lseg",
+   "site": "Graduate_Careers",
+   "company": "LSEG"
+  },
+  {
+   "host": "lseg.wd3.myworkdayjobs.com",
+   "tenant": "lseg",
+   "site": "Careers",
+   "company": "LSEG"
+  },
+  {
+   "host": "lsu.wd1.myworkdayjobs.com",
+   "tenant": "lsu",
+   "site": "lsuwaiver",
+   "company": "Louisiana State University"
+  },
+  {
+   "host": "lthc.wd1.myworkdayjobs.com",
+   "tenant": "lthc",
+   "site": "CDPHPCareers",
+   "company": "CDPHP"
+  },
+  {
+   "host": "lumentum.wd5.myworkdayjobs.com",
+   "tenant": "lumentum",
+   "site": "LITE",
+   "company": "Lumentum"
+  },
+  {
+   "host": "lyreco.wd3.myworkdayjobs.com",
+   "tenant": "lyreco",
+   "site": "Lyreco_Careers",
+   "company": "Lyreco"
+  },
+  {
+   "host": "manulife.wd3.myworkdayjobs.com",
+   "tenant": "manulife",
+   "site": "MFCJH_Jobs",
+   "company": "Manulife Financial"
+  },
+  {
+   "host": "marvell.wd1.myworkdayjobs.com",
+   "tenant": "marvell",
+   "site": "MarvellCareers",
+   "company": "Marvell"
+  },
+  {
+   "host": "masseyservices.wd5.myworkdayjobs.com",
+   "tenant": "masseyservices",
+   "site": "masseyservices",
+   "company": "Massey Services"
+  },
+  {
+   "host": "mbda.wd3.myworkdayjobs.com",
+   "tenant": "mbda",
+   "site": "MBDA-UK",
+   "company": "MBDA"
+  },
+  {
+   "host": "mgpru.wd3.myworkdayjobs.com",
+   "tenant": "mgpru",
+   "site": "mandgprudential",
+   "company": "M&G"
+  },
+  {
+   "host": "michelinhr.wd3.myworkdayjobs.com",
+   "tenant": "michelinhr",
+   "site": "Michelin",
+   "company": "Michelin"
+  },
+  {
+   "host": "micron.wd1.myworkdayjobs.com",
+   "tenant": "micron",
+   "site": "External",
+   "company": "Micron Technology"
+  },
+  {
+   "host": "mitel.wd3.myworkdayjobs.com",
+   "tenant": "mitel",
+   "site": "mitelcareers",
+   "company": "Mitel Networks"
+  },
+  {
+   "host": "moog.wd5.myworkdayjobs.com",
+   "tenant": "moog",
+   "site": "moog_external_career_site",
+   "company": "Moog"
+  },
+  {
+   "host": "morningstar.wd5.myworkdayjobs.com",
+   "tenant": "morningstar",
+   "site": "MorningstarDBRS",
+   "company": "Morningstar"
+  },
+  {
+   "host": "morningstar.wd5.myworkdayjobs.com",
+   "tenant": "morningstar",
+   "site": "Morningstar",
+   "company": "Morningstar"
+  },
+  {
+   "host": "motorolasolutions.wd5.myworkdayjobs.com",
+   "tenant": "motorolasolutions",
+   "site": "Careers",
+   "company": "Motorola"
+  },
+  {
+   "host": "ms.wd5.myworkdayjobs.com",
+   "tenant": "ms",
+   "site": "External",
+   "company": "Morgan Stanley"
+  },
+  {
+   "host": "mtb.wd5.myworkdayjobs.com",
+   "tenant": "mtb",
+   "site": "Campus",
+   "company": "M&T Bank"
+  },
+  {
+   "host": "mufgub.wd3.myworkdayjobs.com",
+   "tenant": "mufgub",
+   "site": "mufg-careers",
+   "company": "MUFG"
+  },
+  {
+   "host": "nationwide.wd1.myworkdayjobs.com",
+   "tenant": "nationwide",
+   "site": "Nationwide_Career",
+   "company": "Nationwide"
+  },
+  {
+   "host": "nationwidechildrens.wd5.myworkdayjobs.com",
+   "tenant": "nationwidechildrens",
+   "site": "NCHCareers",
+   "company": "Nationwide Children's Hospital"
+  },
+  {
+   "host": "nc.wd108.myworkdayjobs.com",
+   "tenant": "nc",
+   "site": "NC_Careers",
+   "company": "State of North Carolina"
+  },
+  {
+   "host": "ncr.wd1.myworkdayjobs.com",
+   "tenant": "ncr",
+   "site": "ext_us",
+   "company": "NCR Voyix"
+  },
+  {
+   "host": "ncr.wd1.myworkdayjobs.com",
+   "tenant": "ncr",
+   "site": "ext_non_us",
+   "company": "NCR Voyix"
+  },
+  {
+   "host": "ncratleos.wd1.myworkdayjobs.com",
+   "tenant": "ncratleos",
+   "site": "ext_non_usalteos",
+   "company": "NCR Atleos"
+  },
+  {
+   "host": "newrez.wd1.myworkdayjobs.com",
+   "tenant": "newrez",
+   "site": "NRZ",
+   "company": "Newrez"
+  },
+  {
+   "host": "newschool.wd1.myworkdayjobs.com",
+   "tenant": "newschool",
+   "site": "external",
+   "company": "The New School"
+  },
+  {
+   "host": "nextracker.wd5.myworkdayjobs.com",
+   "tenant": "nextracker",
+   "site": "nextpower_careers",
+   "company": "Nextpower"
+  },
+  {
+   "host": "ngc.wd1.myworkdayjobs.com",
+   "tenant": "ngc",
+   "site": "Northrop_Grumman_External_Site",
+   "company": "Northrop Grumman"
+  },
+  {
+   "host": "nidec.wd1.myworkdayjobs.com",
+   "tenant": "nidec",
+   "site": "nidec",
+   "company": "Nidec"
+  },
+  {
+   "host": "nordsonhcm.wd501.myworkdayjobs.com",
+   "tenant": "nordsonhcm",
+   "site": "nordsoncareers",
+   "company": "Nordson"
+  },
+  {
+   "host": "northeastern.wd1.myworkdayjobs.com",
+   "tenant": "northeastern",
+   "site": "careers",
+   "company": "Northeastern University"
+  },
+  {
+   "host": "northwesternmutual.wd5.myworkdayjobs.com",
+   "tenant": "northwesternmutual",
+   "site": "corporate-careers",
+   "company": "Northwestern Mutual"
+  },
+  {
+   "host": "nrel.wd5.myworkdayjobs.com",
+   "tenant": "nrel",
+   "site": "NLR",
+   "company": "National Laboratory of the Rockies"
+  },
+  {
+   "host": "ntrs.wd1.myworkdayjobs.com",
+   "tenant": "ntrs",
+   "site": "northerntrust",
+   "company": "Northern Trust"
+  },
+  {
+   "host": "ntst.wd1.myworkdayjobs.com",
+   "tenant": "ntst",
+   "site": "careers",
+   "company": "Netsmart"
+  },
+  {
+   "host": "nvidia.wd5.myworkdayjobs.com",
+   "tenant": "nvidia",
+   "site": "NVIDIAExternalCareerSite",
+   "company": "NVIDIA"
+  },
+  {
+   "host": "nwis.wd12.myworkdayjobs.com",
+   "tenant": "nwis",
+   "site": "NW",
+   "company": "Nightwing Intelligence Solutions"
+  },
+  {
+   "host": "oldrepublic.wd1.myworkdayjobs.com",
+   "tenant": "oldrepublic",
+   "site": "oldrepublictitle",
+   "company": "Old Republic Title"
+  },
+  {
+   "host": "onehealthineers.wd3.myworkdayjobs.com",
+   "tenant": "onehealthineers",
+   "site": "SHSJB",
+   "company": "Varian"
+  },
+  {
+   "host": "onto.wd1.myworkdayjobs.com",
+   "tenant": "onto",
+   "site": "onto_careers",
+   "company": "Onto Innovation"
+  },
+  {
+   "host": "oshkoshcorporation.wd5.myworkdayjobs.com",
+   "tenant": "oshkoshcorporation",
+   "site": "Oshkosh",
+   "company": "Oshkosh"
+  },
+  {
+   "host": "osv-cci.wd1.myworkdayjobs.com",
+   "tenant": "osv-cci",
+   "site": "CCICareers",
+   "company": "Castleton Commodities International"
+  },
+  {
+   "host": "osv-rubicon.wd5.myworkdayjobs.com",
+   "tenant": "osv-rubicon",
+   "site": "MagniteCareers",
+   "company": "Magnite"
+  },
+  {
+   "host": "pae.wd1.myworkdayjobs.com",
+   "tenant": "pae",
+   "site": "amentum_careers",
+   "company": "Amentum"
+  },
+  {
+   "host": "paloaltonetworks.wd5.myworkdayjobs.com",
+   "tenant": "paloaltonetworks",
+   "site": "panwexternalcareers",
+   "company": "Palo Alto Networks"
+  },
+  {
+   "host": "pentair.wd5.myworkdayjobs.com",
+   "tenant": "pentair",
+   "site": "pentair_careers",
+   "company": "Pentair"
+  },
+  {
+   "host": "pfizer.wd1.myworkdayjobs.com",
+   "tenant": "pfizer",
+   "site": "internaljobs",
+   "company": "Pfizer"
+  },
+  {
+   "host": "pfizer.wd1.myworkdayjobs.com",
+   "tenant": "pfizer",
+   "site": "PfizerCareers",
+   "company": "Pfizer"
+  },
+  {
+   "host": "pg.wd5.myworkdayjobs.com",
+   "tenant": "pg",
+   "site": "1000",
+   "company": "Procter & Gamble"
+  },
+  {
+   "host": "philips.wd3.myworkdayjobs.com",
+   "tenant": "philips",
+   "site": "jobs-and-careers",
+   "company": "Philips"
+  },
+  {
+   "host": "pimco.wd1.myworkdayjobs.com",
+   "tenant": "pimco",
+   "site": "pimco-careers",
+   "company": "PIMCO"
+  },
+  {
+   "host": "pjtpartners.wd1.myworkdayjobs.com",
+   "tenant": "pjtpartners",
+   "site": "Careers",
+   "company": "PJT Partners"
+  },
+  {
+   "host": "plantemoran.wd1.myworkdayjobs.com",
+   "tenant": "plantemoran",
+   "site": "pmexternalcareers",
+   "company": "Plante Moran"
+  },
+  {
+   "host": "polaris.wd5.myworkdayjobs.com",
+   "tenant": "polaris",
+   "site": "PolarisJobs",
+   "company": "Polaris"
+  },
+  {
+   "host": "ppg.wd5.myworkdayjobs.com",
+   "tenant": "ppg",
+   "site": "PPG_CAREERS",
+   "company": "PPG Industries"
+  },
+  {
+   "host": "psu.wd1.myworkdayjobs.com",
+   "tenant": "psu",
+   "site": "PSU_Staff",
+   "company": "Pennsylvania State University"
+  },
+  {
+   "host": "q2ebanking.wd5.myworkdayjobs.com",
+   "tenant": "q2ebanking",
+   "site": "Q2",
+   "company": "Q2"
+  },
+  {
+   "host": "r1rcm.wd1.myworkdayjobs.com",
+   "tenant": "r1rcm",
+   "site": "R1RCM",
+   "company": "R1 RCM"
+  },
+  {
+   "host": "rb.wd5.myworkdayjobs.com",
+   "tenant": "rb",
+   "site": "FRS",
+   "company": "The Federal Reserve System"
+  },
+  {
+   "host": "relx.wd3.myworkdayjobs.com",
+   "tenant": "relx",
+   "site": "RiskSolutions",
+   "company": "LexisNexis Risk Solutions"
+  },
+  {
+   "host": "relx.wd3.myworkdayjobs.com",
+   "tenant": "relx",
+   "site": "relx",
+   "company": "RELX"
+  },
+  {
+   "host": "resmed.wd3.myworkdayjobs.com",
+   "tenant": "resmed",
+   "site": "ResMed_External_Careers",
+   "company": "Resmed"
+  },
+  {
+   "host": "resurgent.wd1.myworkdayjobs.com",
+   "tenant": "resurgent",
+   "site": "resurgent",
+   "company": "Resurgent Capital Services"
+  },
+  {
+   "host": "rfcuny.wd108.myworkdayjobs.com",
+   "tenant": "rfcuny",
+   "site": "RFCUNY",
+   "company": "RFCUNY"
+  },
+  {
+   "host": "roche.wd3.myworkdayjobs.com",
+   "tenant": "roche",
+   "site": "ROG-A2O-GENE",
+   "company": "Genentech"
+  },
+  {
+   "host": "roche.wd3.myworkdayjobs.com",
+   "tenant": "roche",
+   "site": "roche-ext",
+   "company": "Roche"
+  },
+  {
+   "host": "rochester.wd5.myworkdayjobs.com",
+   "tenant": "rochester",
+   "site": "UR_Staff",
+   "company": "University of Rochester"
+  },
+  {
+   "host": "rollsroyce.wd3.myworkdayjobs.com",
+   "tenant": "rollsroyce",
+   "site": "Intern_Graduate",
+   "company": "Rolls-Royce"
+  },
+  {
+   "host": "russell.wd5.myworkdayjobs.com",
+   "tenant": "russell",
+   "site": "russellinvestments",
+   "company": "Russell Investments"
+  },
+  {
+   "host": "saabusa.wd1.myworkdayjobs.com",
+   "tenant": "saabusa",
+   "site": "saab_careers",
+   "company": "Saab"
+  },
+  {
+   "host": "salesforce.wd12.myworkdayjobs.com",
+   "tenant": "salesforce",
+   "site": "External_Career_Site",
+   "company": "Salesforce"
+  },
+  {
+   "host": "salesforce.wd12.myworkdayjobs.com",
+   "tenant": "salesforce",
+   "site": "Futureforce_NewGradRoles",
+   "company": "Salesforce"
+  },
+  {
+   "host": "sandvik.wd3.myworkdayjobs.com",
+   "tenant": "sandvik",
+   "site": "sandvik-jobs",
+   "company": "Sandvik"
+  },
+  {
+   "host": "sbdinc.wd1.myworkdayjobs.com",
+   "tenant": "sbdinc",
+   "site": "Stanley_Black_Decker_Career_Site",
+   "company": "Stanley Black & Decker"
+  },
+  {
+   "host": "selinc.wd1.myworkdayjobs.com",
+   "tenant": "selinc",
+   "site": "SEL",
+   "company": "Schweitzer Engineering Laboratories"
+  },
+  {
+   "host": "semtech.wd1.myworkdayjobs.com",
+   "tenant": "semtech",
+   "site": "SemtechCareers",
+   "company": "Semtech"
+  },
+  {
+   "host": "sidley.wd501.myworkdayjobs.com",
+   "tenant": "sidley",
+   "site": "US",
+   "company": "Sidley Austin"
+  },
+  {
+   "host": "sierraspace.wd1.myworkdayjobs.com",
+   "tenant": "sierraspace",
+   "site": "Sierra_Space_External_Career_Site",
+   "company": "Sierra Space"
+  },
+  {
+   "host": "silabs.wd1.myworkdayjobs.com",
+   "tenant": "silabs",
+   "site": "SiliconlabsCareers",
+   "company": "Silicon Laboratories"
+  },
+  {
+   "host": "skechers.wd5.myworkdayjobs.com",
+   "tenant": "skechers",
+   "site": "One-career-site",
+   "company": "Skechers"
+  },
+  {
+   "host": "smithfieldfoods.wd1.myworkdayjobs.com",
+   "tenant": "smithfieldfoods",
+   "site": "Careers",
+   "company": "Smithfield Foods"
+  },
+  {
+   "host": "snc.wd1.myworkdayjobs.com",
+   "tenant": "snc",
+   "site": "snc_external_career_site",
+   "company": "Sierra Nevada Corporation"
+  },
+  {
+   "host": "son.wd108.myworkdayjobs.com",
+   "tenant": "son",
+   "site": "NebraskaStateCareers",
+   "company": "State of Nebraska"
+  },
+  {
+   "host": "sonos.wd1.myworkdayjobs.com",
+   "tenant": "sonos",
+   "site": "Sonos",
+   "company": "Sonos"
+  },
+  {
+   "host": "specialized.wd5.myworkdayjobs.com",
+   "tenant": "specialized",
+   "site": "Specialized_External_Career_Site",
+   "company": "Specialized"
+  },
+  {
+   "host": "spectris.wd3.myworkdayjobs.com",
+   "tenant": "spectris",
+   "site": "HBK_Careers",
+   "company": "Hottinger Brüel & Kjaer"
+  },
+  {
+   "host": "spgi.wd5.myworkdayjobs.com",
+   "tenant": "spgi",
+   "site": "SPGI_Careers",
+   "company": "S&P Global"
+  },
+  {
+   "host": "starfish.wd501.myworkdayjobs.com",
+   "tenant": "starfish",
+   "site": "Careers",
+   "company": "Torch Technologies"
+  },
+  {
+   "host": "statestreet.wd1.myworkdayjobs.com",
+   "tenant": "statestreet",
+   "site": "Global",
+   "company": "State Street"
+  },
+  {
+   "host": "stryker.wd1.myworkdayjobs.com",
+   "tenant": "stryker",
+   "site": "StrykerCareers",
+   "company": "Stryker"
+  },
+  {
+   "host": "stvinc.wd5.myworkdayjobs.com",
+   "tenant": "stvinc",
+   "site": "stv",
+   "company": "STV"
+  },
+  {
+   "host": "tamus.wd1.myworkdayjobs.com",
+   "tenant": "tamus",
+   "site": "System-wide_External",
+   "company": "Texas A&M University System"
+  },
+  {
+   "host": "target.wd5.myworkdayjobs.com",
+   "tenant": "target",
+   "site": "targetcareers",
+   "company": "Target"
+  },
+  {
+   "host": "td.wd3.myworkdayjobs.com",
+   "tenant": "td",
+   "site": "TD_Bank_Careers",
+   "company": "TD Bank"
+  },
+  {
+   "host": "tel.wd3.myworkdayjobs.com",
+   "tenant": "tel",
+   "site": "tel-careers",
+   "company": "Tokyo Electron"
+  },
+  {
+   "host": "thales.wd3.myworkdayjobs.com",
+   "tenant": "thales",
+   "site": "Careers",
+   "company": "Thales"
+  },
+  {
+   "host": "thermofisher.wd5.myworkdayjobs.com",
+   "tenant": "thermofisher",
+   "site": "ThermoFisherCareers",
+   "company": "Thermo Fisher Scientific"
+  },
+  {
+   "host": "thrivent.wd5.myworkdayjobs.com",
+   "tenant": "thrivent",
+   "site": "external",
+   "company": "Thrivent"
+  },
+  {
+   "host": "tidalwaveautospa.wd1.myworkdayjobs.com",
+   "tenant": "tidalwaveautospa",
+   "site": "TWAS",
+   "company": "Tidal Wave Auto Spa"
+  },
+  {
+   "host": "toyota.wd503.myworkdayjobs.com",
+   "tenant": "toyota",
+   "site": "tmna",
+   "company": "Toyota"
+  },
+  {
+   "host": "tplink.wd503.myworkdayjobs.com",
+   "tenant": "tplink",
+   "site": "External",
+   "company": "TP-Link Systems"
+  },
+  {
+   "host": "travelers.wd5.myworkdayjobs.com",
+   "tenant": "travelers",
+   "site": "External",
+   "company": "Travelers"
+  },
+  {
+   "host": "tricorbraun.wd115.myworkdayjobs.com",
+   "tenant": "tricorbraun",
+   "site": "careers",
+   "company": "TricorBraun"
+  },
+  {
+   "host": "trinzic.wd115.myworkdayjobs.com",
+   "tenant": "trinzic",
+   "site": "Trinzic_Careers",
+   "company": "Trinzic"
+  },
+  {
+   "host": "tsc.wd12.myworkdayjobs.com",
+   "tenant": "tsc",
+   "site": "TSC-Careers",
+   "company": "TSC"
+  },
+  {
+   "host": "ttc.wd1.myworkdayjobs.com",
+   "tenant": "ttc",
+   "site": "Toro_External_Careers",
+   "company": "The Toro Company"
+  },
+  {
+   "host": "tti.wd1.myworkdayjobs.com",
+   "tenant": "tti",
+   "site": "tti_pe",
+   "company": "Techtronic Industries (TTI)"
+  },
+  {
+   "host": "tysonfoods.wd5.myworkdayjobs.com",
+   "tenant": "tysonfoods",
+   "site": "TSN",
+   "company": "Tyson Foods"
+  },
+  {
+   "host": "tysonfoods.wd5.myworkdayjobs.com",
+   "tenant": "tysonfoods",
+   "site": "TYIT",
+   "company": "Tyson Foods"
+  },
+  {
+   "host": "uasys.wd5.myworkdayjobs.com",
+   "tenant": "uasys",
+   "site": "uasys",
+   "company": "University of Arkansas"
+  },
+  {
+   "host": "uchicago.wd5.myworkdayjobs.com",
+   "tenant": "uchicago",
+   "site": "External",
+   "company": "University of Chicago"
+  },
+  {
+   "host": "uhaul.wd1.myworkdayjobs.com",
+   "tenant": "uhaul",
+   "site": "UhaulJobs",
+   "company": "Uhaul"
+  },
+  {
+   "host": "ultra.wd3.myworkdayjobs.com",
+   "tenant": "ultra",
+   "site": "ultra-careers",
+   "company": "Ultra"
+  },
+  {
+   "host": "ultra.wd3.myworkdayjobs.com",
+   "tenant": "ultra",
+   "site": "uiccareers",
+   "company": "Ultra Intelligence and Communications"
+  },
+  {
+   "host": "umiami.wd1.myworkdayjobs.com",
+   "tenant": "umiami",
+   "site": "UMCareerStaff",
+   "company": "University of Miami"
+  },
+  {
+   "host": "upenn.wd1.myworkdayjobs.com",
+   "tenant": "upenn",
+   "site": "careers-at-penn",
+   "company": "University of Pennsylvania"
+  },
+  {
+   "host": "upenn.wd1.myworkdayjobs.com",
+   "tenant": "upenn",
+   "site": "PSOM",
+   "company": "University of Pennsylvania"
+  },
+  {
+   "host": "utaustin.wd1.myworkdayjobs.com",
+   "tenant": "utaustin",
+   "site": "utstudent",
+   "company": "University of Texas at Austin"
+  },
+  {
+   "host": "utaustin.wd1.myworkdayjobs.com",
+   "tenant": "utaustin",
+   "site": "UTstaff",
+   "company": "University of Texas at Austin"
+  },
+  {
+   "host": "uva.wd1.myworkdayjobs.com",
+   "tenant": "uva",
+   "site": "uvastudentjobs",
+   "company": "University of Virginia"
+  },
+  {
+   "host": "vanguard.wd5.myworkdayjobs.com",
+   "tenant": "vanguard",
+   "site": "vanguard_external",
+   "company": "Vanguard"
+  },
+  {
+   "host": "vantiva.wd103.myworkdayjobs.com",
+   "tenant": "vantiva",
+   "site": "vantiva",
+   "company": "Vantiva"
+  },
+  {
+   "host": "vantive.wd108.myworkdayjobs.com",
+   "tenant": "vantive",
+   "site": "Vantive",
+   "company": "Vantive"
+  },
+  {
+   "host": "varsitybrands.wd503.myworkdayjobs.com",
+   "tenant": "varsitybrands",
+   "site": "externalcareersite",
+   "company": "Varsity Brands"
+  },
+  {
+   "host": "vermeer.wd5.myworkdayjobs.com",
+   "tenant": "vermeer",
+   "site": "externalcareersite",
+   "company": "Vermeer"
+  },
+  {
+   "host": "vfc.wd5.myworkdayjobs.com",
+   "tenant": "vfc",
+   "site": "northface_careers",
+   "company": "The North Face"
+  },
+  {
+   "host": "vfc.wd5.myworkdayjobs.com",
+   "tenant": "vfc",
+   "site": "vfc_careers",
+   "company": "VF"
+  },
+  {
+   "host": "vhr-epri.wd1.myworkdayjobs.com",
+   "tenant": "vhr-epri",
+   "site": "epricareers",
+   "company": "EPRI"
+  },
+  {
+   "host": "viavisolutions.wd1.myworkdayjobs.com",
+   "tenant": "viavisolutions",
+   "site": "careers",
+   "company": "Viavi Solutions"
+  },
+  {
+   "host": "visa.wd5.myworkdayjobs.com",
+   "tenant": "visa",
+   "site": "Visa",
+   "company": "Visa"
+  },
+  {
+   "host": "vishay.wd3.myworkdayjobs.com",
+   "tenant": "vishay",
+   "site": "VishayCareers",
+   "company": "Vishay Intertechnology"
+  },
+  {
+   "host": "walmart.wd504.myworkdayjobs.com",
+   "tenant": "walmart",
+   "site": "WalmartExternal",
+   "company": "Walmart"
+  },
+  {
+   "host": "wmg.wd1.myworkdayjobs.com",
+   "tenant": "wmg",
+   "site": "WMGUS",
+   "company": "Warner Music"
+  },
+  {
+   "host": "wustl.wd1.myworkdayjobs.com",
+   "tenant": "wustl",
+   "site": "external",
+   "company": "Wash U"
+  },
+  {
+   "host": "zeissgroup.wd3.myworkdayjobs.com",
+   "tenant": "zeissgroup",
+   "site": "External",
+   "company": "Zeiss"
+  }
+ ],
+ "not_yet_supported_hosts": {
+  "lifeattiktok.com": 177,
+  "apply.workable.com": 115,
+  "jobs.bytedance.com": 87,
+  "jobs.smartrecruiters.com": 70,
+  "careers.jhuapl.edu": 44,
+  "amazon.jobs": 41,
+  "job-boards.eu.greenhouse.io": 37,
+  "jobs.jobvite.com": 30,
+  "recruiting.ultipro.com": 30,
+  "jobs.apple.com": 28,
+  "qualcomm.eightfold.ai": 25,
+  "ats.rippling.com": 22,
+  "edbz.fa.us2.oraclecloud.com": 19,
+  "jobs.l3harris.com": 19,
+  "careers.garmin.com": 17,
+  "careers-gdms.icims.com": 16,
+  "www.tesla.com": 14,
+  "edel.fa.us2.oraclecloud.com": 12,
+  "careers.capgemini.com": 10,
+  "jobs.keysight.com": 10,
+  "recruiting2.ultipro.com": 10,
+  "eofe.fa.us2.oraclecloud.com": 9,
+  "icfcjb.fa.ocs.oraclecloud.com": 9,
+  "sambanova.ai": 8,
+  "cclim.cclgroup.com": 8,
+  "jobs.ashbyhq.com": 7,
+  "accenture.pinpointhq.com": 7,
+  "wyetech.applytojob.com": 7,
+  "www.google.com": 6,
+  "textron.taleo.net": 6,
+  "jpmc.fa.oraclecloud.com": 6,
+  "careers.noblis.org": 6,
+  "westmonroe.com": 6,
+  "careers.formlabs.com": 6,
+  "recruiting.paylocity.com": 5,
+  "twosigma.avature.net": 5,
+  "careers-sig.icims.com": 5,
+  "stripe.com": 5,
+  "spa.jibeapply.com": 5,
+  "wd5.myworkdaysite.com": 5
+ }
+}
